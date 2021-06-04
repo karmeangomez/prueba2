@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/21/items/go_20210531/Go.png" , GOTV! HUIMAN
-https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/21/items/go_20210531/Go.png" , GOTV! HUIMAN - *ESTRENOS*
+https://archive.org/download/paw-patrol/PAW%20Patrol.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 720 HD" tvg-logo="http://176.9.51.86:8080/images/f0407f9f685cdd1173fa7ff843c9f8f1.jpg" group-title="* ESTRENOS DE HOY *",Cruella (2021) 720 HD
+http://ui.mrzutv.net:8080/movie/mio/mio/40902.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES" , PARAMOUNT+ PRESENTA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=83ff48c2-b04a-11eb-b521-0242ac110002&sid=83ff48c2-b04a-11eb-b521-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/5/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
@@ -915,7 +919,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=8b3d8e92-b049-11eb-9c6e-0242ac110002&sid=8b3d8e92-b049-11eb-9c6e-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV", CINE COMEDIA - PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=8b3d8e92-b049-11eb-9c6e-0242ac110002&sid=8b3d8e92-b049-11eb-9c6e-0242ac110002&userId=
-#EXTINF:-1 group-title="CANALES PLUTO TV", PARAMOUNT+ - PLUTO TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES" , PARAMOUNT+ PRESENTA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=83ff48c2-b04a-11eb-b521-0242ac110002&sid=83ff48c2-b04a-11eb-b521-0242ac110002&userId=
 #EXTINF:-1 group-title="CANALES PLUTO TV", MTV - PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=99f846ec-43e7-4b1b-bd14-08056a311a11&clientModelNumber=na&deviceDNT=false&deviceId=99f846ec-43e7-4b1b-bd14-08056a311a11&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=fe99644d-b04a-11eb-91cc-0242ac110002&sid=fe99644d-b04a-11eb-91cc-0242ac110002&userId=
@@ -2776,7 +2780,7 @@ http://ui.mrzutv.net:8080/mio/mio/30904
 http://ui.mrzutv.net:8080/mio/mio/30905
 #EXTINF:-1 tvg-id="" tvg-name="Bolivia || XTO TV &gt;)" tvg-logo="http://ui.mrzutv.net:8080/images/9220f6bea55f8b19449e41a4dea30ce6.png" group-title="** BOLIVIA **",Bolivia || XTO TV &gt;)
 http://ui.mrzutv.net:8080/mio/mio/30906
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia || Canal 7 Bolivia TV" tvg-logo="http://ui.mrzutv.net:8080/images/32947415599c308091a523f3f7974040.png" group-title="** BOLIVIA **",Bolivia || Canal 7 Bolivia TV
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia || Canal 7 Bolivia TV" tvg-logo="http://ui.mrzutv.net:8080/images/32947415599c308091a523f3f7974040.png" group-title="** BOLIVIA **",Bolivia || Canal 7 Bolivia TV
 http://ui.mrzutv.net:8080/mio/mio/30911
 #EXTINF:-1 tvg-id="" tvg-name="CA: ABC East HD" tvg-logo="http://ui.mrzutv.net:8080/images/c4badcd28909802685286491a2a44d3e.png" group-title="** CANADA **",CA: ABC East HD
 http://ui.mrzutv.net:8080/mio/mio/26596
@@ -12176,8 +12180,6 @@ http://ui.mrzutv.net:8080/movie/mio/mio/40899.mkv
 http://ui.mrzutv.net:8080/movie/mio/mio/40900.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 1080 hd" tvg-logo="http://176.9.51.86:8080/images/f0407f9f685cdd1173fa7ff843c9f8f1.jpg" group-title="* ESTRENOS DE HOY *",Cruella (2021) 1080 hd
 http://ui.mrzutv.net:8080/movie/mio/mio/40901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) 720 HD" tvg-logo="http://176.9.51.86:8080/images/f0407f9f685cdd1173fa7ff843c9f8f1.jpg" group-title="* ESTRENOS DE HOY *",Cruella (2021) 720 HD
-http://ui.mrzutv.net:8080/movie/mio/mio/40902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES: TUDN MEXICO" tvg-logo="" group-title="*** DEPORTES LATINOS ***",DEPORTES: TUDN MEXICO
 http://ui.mrzutv.net:8080/mio/mio/40968
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MX" tvg-logo="" group-title="*** MEXICO NACIONALES ***",CANAL 5 MX
