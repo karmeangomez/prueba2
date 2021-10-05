@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , HELLO AMIX!
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , HELLO AMIX! X2 
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LeEHRv50LOE/T0HSdBsfcyI/AAAAAAAAAtk/J8IMgfMkH8M/s1600/mision-sos.jpg", MISION S.O.S - PROXIMAMENTE
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 120
-
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1ecf921267c068983de79e220f062fdf302abbda&st.mq=2&st.mvid=1634891139807&st.ip=187.162.101.45&st.dla=on&st.exp=1633577658030&st.hls=on&_prevCmd=movieLayer&tkn=8260
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=46c3ba3d4309fd1ecafd076d0e96c4c6fb3044d7&st.mq=2&st.mvid=1623831743199&st.ip=187.162.101.45&st.dla=on&st.exp=1633586749489&st.hls=on&_prevCmd=movieLayer&tkn=4062
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 2
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c028972cbcf9788b464a8d1d044889993c567d64&st.mq=2&st.mvid=1623835806431&st.ip=187.162.101.45&st.dla=on&st.exp=1633586844186&st.hls=on&_prevCmd=movieLayer&tkn=2425
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 3
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6498ebc8b2491724f14bb214e1ffd20cba680f23&st.mq=2&st.mvid=1623839476447&st.ip=187.162.101.45&st.dla=on&st.exp=1633586918758&st.hls=on&_prevCmd=movieLayer&tkn=9252
 #EXTINF:-1, KIDSPLAY - ESTRENOS
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, ZPTV - ESTRENOS
