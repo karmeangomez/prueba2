@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/24/items/lety_20211007/lety.jpg" , GOODNIGHT AMIX!
-http://chapotv.com:8080/live/Miguel/Miguel2020/182704.m3u8
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6212/fe1f7c4bcbd597167f78f8909d6766d2ded32b90_hq.jpg" , HELLO AMIX!
+https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS KIDS - ESTRENOS
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
 #EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 #EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
-http://chapotv.com:8080/live/Miguel/Miguel2020/107333.m3u8
+http://appleiptv.com:25461/live/1819/1819/30544.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -71,322 +71,752 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1, CINE CLUB
 https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="MX: A&E HD" tvg-logo="http://xtream-coders.com/x0/latino/ae.png" group-title="? MEXICO",MX: A&E HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140659.m3u8
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="MX: AMC" tvg-logo="http://xtream-coders.com/x0/latino/amc.png" group-title="? MEXICO",MX: AMC
-http://chapotv.com:8080/live/Miguel/Miguel2020/140588.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MX: Animal Planet HD" tvg-logo="http://xtream-coders.com/x0/latino/animal_planet.png" group-title="? MEXICO",MX: Animal Planet HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140631.m3u8
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="MX: A+" tvg-logo="http://xtream-coders.com/x0/latino/aplus.png" group-title="? MEXICO",MX: A+
-http://chapotv.com:8080/live/Miguel/Miguel2020/140644.m3u8
-#EXTINF:-1 tvg-id="~ HD A3 Series" tvg-name="MX: A3 Series HD" tvg-logo="http://xtream-coders.com/x0/latino/a3_series.png" group-title="? MEXICO",MX: A3 Series HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140658.m3u8
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX: ADN40 HD" tvg-logo="http://xtream-coders.com/x0/latino/adn40.png" group-title="? MEXICO",MX: ADN40 HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140678.m3u8
-#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="MX: ANTENA3 HD" tvg-logo="http://xtream-coders.com/x0/latino/antenna3.png" group-title="? MEXICO",MX: ANTENA3 HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140665.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="MX: Axn HD" tvg-logo="http://xtream-coders.com/x0/latino/axn.png" group-title="? MEXICO",MX: Axn HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140657.m3u8
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="MX: AyM Sports HD" tvg-logo="http://xtream-coders.com/x0/deportes/aymsports.png" group-title="? MEXICO",MX: AyM Sports HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140580.m3u8
-#EXTINF:-1 tvg-id="~ HD AZ Cinema" tvg-name="MX: AZ Cinema HD" tvg-logo="http://xtream-coders.com/x0/latino/azcinema.png" group-title="? MEXICO",MX: AZ Cinema HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZ Click" tvg-logo="http://xtream-coders.com/x0/latino/azclick.png" group-title="? MEXICO",MX: AZ Click
-http://chapotv.com:8080/live/Miguel/Miguel2020/140575.m3u8
-#EXTINF:-1 tvg-id="~ HD AZ Corazon" tvg-name="MX: AZ Corazon" tvg-logo="http://xtream-coders.com/x0/latino/azcorazon.png" group-title="? MEXICO",MX: AZ Corazon
-http://chapotv.com:8080/live/Miguel/Miguel2020/140628.m3u8
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="MX: AZ Mundo" tvg-logo="http://xtream-coders.com/x0/latino/azmundo.png" group-title="? MEXICO",MX: AZ Mundo
-http://chapotv.com:8080/live/Miguel/Miguel2020/140616.m3u8
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="MX: Azteca 1" tvg-logo="http://011011011.com:8080/images/afc7d8a3e4b0282ffd1c18ae1feaa66b.png" group-title="? MEXICO",MX: Azteca 1
-http://chapotv.com:8080/live/Miguel/Miguel2020/140681.m3u8
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="MX: Azteca 1.." tvg-logo="http://xtream-coders.com/x0/latino/azteca_uno.png" group-title="? MEXICO",MX: Azteca 1..
-http://chapotv.com:8080/live/Miguel/Miguel2020/140560.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX: Azteca 7 HD" tvg-logo="http://011011011.com:8080/images/42eb14e424068868e6880fc45879a068.png" group-title="? MEXICO",MX: Azteca 7 HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca Click HD" tvg-logo="http://011011011.com:8080/images/79a879cbf547395f0fcde0d07b72ad47.png" group-title="? MEXICO",MX: Azteca Click HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140686.m3u8
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="MX: Azteca Corazon" tvg-logo="http://011011011.com:8080/images/c2ff8a3895fe79fb27626466acd5db61.png" group-title="? MEXICO",MX: Azteca Corazon
-http://chapotv.com:8080/live/Miguel/Miguel2020/140586.m3u8
-#EXTINF:-1 tvg-id="BabyFirstTV(English).mx" tvg-name="MX: Baby First" tvg-logo="http://011011011.com:8080/images/5ea147c1ba65426b110eb0061df8614c.png" group-title="? MEXICO",MX: Baby First
-http://chapotv.com:8080/live/Miguel/Miguel2020/140666.m3u8
-#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX: Boomerang HD" tvg-logo="http://011011011.com:8080/images/9958159f7c13978b3a2f15fb846d6aa6.png" group-title="? MEXICO",MX: Boomerang HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140606.m3u8
-#EXTINF:-1 tvg-id="XEWTVCanal2(Duplicate2Delay).mx" tvg-name="MX: Canal 2 MVS" tvg-logo="http://xtream-coders.com/x0/latino/canal_2.png" group-title="? MEXICO",MX: Canal 2 MVS
-http://chapotv.com:8080/live/Miguel/Miguel2020/140653.m3u8
-#EXTINF:-1 tvg-id="XHNONCanal26.mx" tvg-name="MX: Canal 26 Aguascalientes " tvg-logo="http://xtream-coders.com/x0/latino/canal_26_aguascalientes.png" group-title="? MEXICO",MX: Canal 26 Aguascalientes 
-http://chapotv.com:8080/live/Miguel/Miguel2020/140656.m3u8
-#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="MX: Canal 4 " tvg-logo="http://xtream-coders.com/x0/latino/canal_4.png" group-title="? MEXICO",MX: Canal 4 
-http://chapotv.com:8080/live/Miguel/Miguel2020/140635.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX: Canal 5" tvg-logo="http://xtream-coders.com/x0/latino/canal_5.png" group-title="? MEXICO",MX: Canal 5
-http://chapotv.com:8080/live/Miguel/Miguel2020/140685.m3u8
-#EXTINF:-1 tvg-id="~ HD Canal 8" tvg-name="MX: Canal 8" tvg-logo="http://xtream-coders.com/x0/latino/canal_8.png" group-title="? MEXICO",MX: Canal 8
-http://chapotv.com:8080/live/Miguel/Miguel2020/140642.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX: Canal de las Estrellas." tvg-logo="http://xtream-coders.com/x0/latino/canal_de_las_estrellas.png" group-title="? MEXICO",MX: Canal de las Estrellas.
-http://chapotv.com:8080/live/Miguel/Miguel2020/140523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Judicial" tvg-logo="http://xtream-coders.com/x0/latino/canal_judicial.png" group-title="? MEXICO",MX: Canal Judicial
-http://chapotv.com:8080/live/Miguel/Miguel2020/140304.m3u8
-#EXTINF:-1 tvg-id="Once.mx" tvg-name="MX: Canal Once HD" tvg-logo="http://xtream-coders.com/x0/latino/canal_11.png" group-title="? MEXICO",MX: Canal Once HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140682.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="MX: Cine Canal HD" tvg-logo="http://xtream-coders.com/x0/latino/cine_canal.png" group-title="? MEXICO",MX: Cine Canal HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140366.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="MX: Cinemax HD" tvg-logo="http://xtream-coders.com/x0/movie/cinemax.png" group-title="? MEXICO",MX: Cinemax HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140345.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="MX: Comedy Central HD" tvg-logo="http://xtream-coders.com/x0/latino/comedy_central.png" group-title="? MEXICO",MX: Comedy Central HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140648.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="MX: De Pelicula" tvg-logo="http://011011011.com:8080/images/53f44c72eff733c435c35a46fb1665c1.png" group-title="? MEXICO",MX: De Pelicula
-http://chapotv.com:8080/live/Miguel/Miguel2020/140348.m3u8
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="MX: De Pelicula Plus HD" tvg-logo="http://011011011.com:8080/images/2c92110a2a4c4b98afce9d6c4ae752f3.png" group-title="? MEXICO",MX: De Pelicula Plus HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140346.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="MX: Discovery H&H HD" tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png" group-title="? MEXICO",MX: Discovery H&H HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140599.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="MX: Discovery Science HD" tvg-logo="http://xtream-coders.com/x0/latino/discovery_science.png" group-title="? MEXICO",MX: Discovery Science HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140596.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MX: Discovery Theater HD" tvg-logo="http://xtream-coders.com/x0/latino/discovery_theather.png" group-title="? MEXICO",MX: Discovery Theater HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140604.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="MX: Discovery Turbo HD" tvg-logo="http://xtream-coders.com/x0/latino/discovery_turbo.png" group-title="? MEXICO",MX: Discovery Turbo HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140630.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MX: Discovery World HD" tvg-logo="http://xtream-coders.com/x0/latino/discovery_world.png" group-title="? MEXICO",MX: Discovery World HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140601.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://xtream-coders.com/x0/latino/distrito_comedia.png" group-title="? MEXICO",MX: Distrito Comedia HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140619.m3u8
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="MX: E! HD" tvg-logo="http://xtream-coders.com/x0/latino/e_entertainment.png" group-title="? MEXICO",MX: E! HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140626.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="MX: El Gourmet HD" tvg-logo="http://xtream-coders.com/x0/latino/el_gourmet.png" group-title="? MEXICO",MX: El Gourmet HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140447.m3u8
-#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="MX: Film & Arts HD" tvg-logo="http://xtream-coders.com/x0/latino/film_n_arts.png" group-title="? MEXICO",MX: Film & Arts HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140679.m3u8
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="MX: Formula Noticias" tvg-logo="http://xtream-coders.com/x0/latino/formula_noticias.png" group-title="? MEXICO",MX: Formula Noticias
-http://chapotv.com:8080/live/Miguel/Miguel2020/140677.m3u8
-#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="MX: Fox Classics" tvg-logo="http://xtream-coders.com/x0/movie/fox_classics.png" group-title="? MEXICO",MX: Fox Classics
-http://chapotv.com:8080/live/Miguel/Miguel2020/140369.m3u8
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="MX: Fox HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/fox.png" group-title="? MEXICO",MX: Fox HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140627.m3u8
-#EXTINF:-1 tvg-id="~ HD Fox Life" tvg-name="MX: Fox Life HD" tvg-logo="http://xtream-coders.com/x0/latino/fox_life.png" group-title="? MEXICO",MX: Fox Life HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140620.m3u8
-#EXTINF:-1 tvg-id="~ HD Fox Movies" tvg-name="MX: Fox Movies HD" tvg-logo="http://xtream-coders.com/x0/latino/fox_movies.png" group-title="? MEXICO",MX: Fox Movies HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140354.m3u8
-#EXTINF:-1 tvg-id="~ HD Fox News" tvg-name="MX: Fox News HD" tvg-logo="http://xtream-coders.com/x0/latino/fox_news.png" group-title="? MEXICO",MX: Fox News HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140671.m3u8
-#EXTINF:-1 tvg-id="~ HD Fox Series" tvg-name="MX: Fox Series" tvg-logo="http://xtream-coders.com/x0/latino/fox_series.png" group-title="? MEXICO",MX: Fox Series
-http://chapotv.com:8080/live/Miguel/Miguel2020/140592.m3u8
-#EXTINF:-1 tvg-id="~ HD FXM" tvg-name="MX: FXM" tvg-logo="http://xtream-coders.com/x0/latino/fxm.png" group-title="? MEXICO",MX: FXM
-http://chapotv.com:8080/live/Miguel/Miguel2020/140589.m3u8
-#EXTINF:-1 tvg-id="~ Glitz" tvg-name="MX: Glitz HD" tvg-logo="http://xtream-coders.com/x0/latino/glitz.png" group-title="? MEXICO",MX: Glitz HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140621.m3u8
-#EXTINF:-1 tvg-id="~ SD GOLDEN" tvg-name="MX: Golden" tvg-logo="http://xtream-coders.com/x0/latino/golden.png" group-title="? MEXICO",MX: Golden
-http://chapotv.com:8080/live/Miguel/Miguel2020/140371.m3u8
-#EXTINF:-1 tvg-id="~ HD Golden Plus" tvg-name="MX: Golden Plus" tvg-logo="http://xtream-coders.com/x0/latino/golden_plus.png" group-title="? MEXICO",MX: Golden Plus
-http://chapotv.com:8080/live/Miguel/Miguel2020/140347.m3u8
-#EXTINF:-1 tvg-id="~ SD DISCOVERY CIVILIZATION" tvg-name="MX: HGTV HD" tvg-logo="http://011011011.com:8080/images/b27cb75895345521997131c49cd75432.png" group-title="? MEXICO",MX: HGTV HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140595.m3u8
-#EXTINF:-1 tvg-id="~ HD Hola TV" tvg-name="MX: Hola TV HD" tvg-logo="http://xtream-coders.com/x0/latino/hola_tv.png" group-title="? MEXICO",MX: Hola TV HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140646.m3u8
-#EXTINF:-1 tvg-id="~ HD Investigation Discovery" tvg-name="MX: Investigation Discovery HD" tvg-logo="http://xtream-coders.com/x0/latino/investigation_discovery.png" group-title="? MEXICO",MX: Investigation Discovery HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140624.m3u8
-#EXTINF:-1 tvg-id="~ Estrellas SD" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://xtream-coders.com/x0/latino/canal_de_las_estrellas.png" group-title="? MEXICO",MX: LAS ESTRELLAS HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140463.m3u8
-#EXTINF:-1 tvg-id="~ HD Lifetime" tvg-name="MX: Lifetime" tvg-logo="http://xtream-coders.com/x0/latino/lifetime.png" group-title="? MEXICO",MX: Lifetime
-http://chapotv.com:8080/live/Miguel/Miguel2020/140597.m3u8
-#EXTINF:-1 tvg-id="~ SD MAS CHIC" tvg-name="MX: Mas Chic HD" tvg-logo="http://xtream-coders.com/x0/latino/mas_chic.png" group-title="? MEXICO",MX: Mas Chic HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140645.m3u8
-#EXTINF:-1 tvg-id="~ HD Mexiquense" tvg-name="MX: Mexiquense HD" tvg-logo="http://xtream-coders.com/x0/latino/mexiquense.png" group-title="? MEXICO",MX: Mexiquense HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140446.m3u8
-#EXTINF:-1 tvg-id="~ HD Morbido TV" tvg-name="MX: Morbido TV HD" tvg-logo="http://xtream-coders.com/x0/latino/morbido_tv.png" group-title="? MEXICO",MX: Morbido TV HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV" tvg-logo="http://xtream-coders.com/x0/latino/mtv.png" group-title="? MEXICO",MX: MTV
-http://chapotv.com:8080/live/Miguel/Miguel2020/140574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV Hits" tvg-logo="http://xtream-coders.com/x0/latino/mtv_hits.png" group-title="? MEXICO",MX: MTV Hits
-http://chapotv.com:8080/live/Miguel/Miguel2020/140573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MTV Live HD" tvg-logo="http://xtream-coders.com/x0/latino/mtv_live.png" group-title="? MEXICO",MX: MTV Live HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140578.m3u8
-#EXTINF:-1 tvg-id="~ HD Multimedios" tvg-name="MX: Multimedios" tvg-logo="http://xtream-coders.com/x0/latino/multimedios.png" group-title="? MEXICO",MX: Multimedios
-http://chapotv.com:8080/live/Miguel/Miguel2020/140525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Guadalajara" tvg-logo="http://xtream-coders.com/x0/latino/multimedios_guadalajara.png" group-title="? MEXICO",MX: Multimedios Guadalajara
-http://chapotv.com:8080/live/Miguel/Miguel2020/140701.m3u8
-#EXTINF:-1 tvg-id="~ HD Multimedios" tvg-name="MX: Multimedios HD" tvg-logo="http://xtream-coders.com/x0/latino/multimedios.png" group-title="? MEXICO",MX: Multimedios HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140643.m3u8
-#EXTINF:-1 tvg-id="~ SD MULTIMEDIOS" tvg-name="MX: Multimedios HD Mty" tvg-logo="http://011011011.com:8080/images/330a3855303529a0793e58d52a92fb84.png" group-title="? MEXICO",MX: Multimedios HD Mty
-http://chapotv.com:8080/live/Miguel/Miguel2020/140692.m3u8
-#EXTINF:-1 tvg-id="~ HD Multimedios Plus" tvg-name="MX: Multimedios Plus HD" tvg-logo="http://xtream-coders.com/x0/latino/multimedios_plus.png" group-title="? MEXICO",MX: Multimedios Plus HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: MVM Noticias Oaxaca" tvg-logo="http://xtream-coders.com/x0/latino/mvm_noticias_oaxaca.png" group-title="? MEXICO",MX: MVM Noticias Oaxaca
-http://chapotv.com:8080/live/Miguel/Miguel2020/140704.m3u8
-#EXTINF:-1 tvg-id="~ SD NAT GEO" tvg-name="MX: Nat Geo HD" tvg-logo="http://xtream-coders.com/x0/latino/national_geographic.png" group-title="? MEXICO",MX: Nat Geo HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140440.m3u8
-#EXTINF:-1 tvg-id="~ HD Nat Geo Wild" tvg-name="MX: Nat Geo Wild HD" tvg-logo="http://011011011.com:8080/images/1ab2f0fb28f75dfa08000f4d3d8f4975.png" group-title="? MEXICO",MX: Nat Geo Wild HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140602.m3u8
-#EXTINF:-1 tvg-id="~ National Geographic" tvg-name="MX: National Geographic HD" tvg-logo="http://xtream-coders.com/x0/latino/national_geographic.png" group-title="? MEXICO",MX: National Geographic HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140598.m3u8
-#EXTINF:-1 tvg-id="~ HD NU9VE HD" tvg-name="MX: NU9VE HD" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png" group-title="? MEXICO",MX: NU9VE HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140683.m3u8
-#EXTINF:-1 tvg-id="~ HD NU9VE HD" tvg-name="MX: NU9VE HD 2" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png" group-title="? MEXICO",MX: NU9VE HD 2
-http://chapotv.com:8080/live/Miguel/Miguel2020/140673.m3u8
-#EXTINF:-1 tvg-id="~ SD PARAMOUNT" tvg-name="MX: Paramount Channel HD" tvg-logo="http://xtream-coders.com/x0/latino/paramount.png" group-title="? MEXICO",MX: Paramount Channel HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: RCG 1 Saltillo" tvg-logo="http://xtream-coders.com/x0/latino/rcg_television.png" group-title="? MEXICO",MX: RCG 1 Saltillo
-http://chapotv.com:8080/live/Miguel/Miguel2020/140705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: RCG 2 Saltillo" tvg-logo="http://xtream-coders.com/x0/latino/rcg_television.png" group-title="? MEXICO",MX: RCG 2 Saltillo
-http://chapotv.com:8080/live/Miguel/Miguel2020/140706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: RMS" tvg-logo="http://xtream-coders.com/x0/latino/rms.png" group-title="? MEXICO",MX: RMS
-http://chapotv.com:8080/live/Miguel/Miguel2020/140571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: RTQ Queretaro" tvg-logo="http://xtream-coders.com/x0/latino/rtq_queretaro.png" group-title="? MEXICO",MX: RTQ Queretaro
-http://chapotv.com:8080/live/Miguel/Miguel2020/140708.m3u8
-#EXTINF:-1 tvg-id="~ SD SONY" tvg-name="MX: Sony Channel HD" tvg-logo="http://xtream-coders.com/x0/latino/sony_channel.png" group-title="? MEXICO",MX: Sony Channel HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140351.m3u8
-#EXTINF:-1 tvg-id="~ SD SPACE" tvg-name="MX: SPACE HD" tvg-logo="http://xtream-coders.com/x0/latino/space_hd.png" group-title="? MEXICO",MX: SPACE HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140587.m3u8
-#EXTINF:-1 tvg-id="~ HD Star TVE" tvg-name="MX: Star Tve HD" tvg-logo="http://xtream-coders.com/x0/latino/star_tve.png" group-title="? MEXICO",MX: Star Tve HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140633.m3u8
-#EXTINF:-1 tvg-id="~ HD Studio Universal" tvg-name="MX: Studio Universal HD" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png" group-title="? MEXICO",MX: Studio Universal HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140663.m3u8
-#EXTINF:-1 tvg-id="~ HD SyFy." tvg-name="MX: SyFy HD" tvg-logo="http://xtream-coders.com/x0/latino/syfy.png" group-title="? MEXICO",MX: SyFy HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140625.m3u8
-#EXTINF:-1 tvg-id="~ TBS" tvg-name="MX: TBS" tvg-logo="http://xtream-coders.com/x0/latino/tbs.png" group-title="? MEXICO",MX: TBS
-http://chapotv.com:8080/live/Miguel/Miguel2020/140618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Telehit Plus HD" tvg-logo="http://011011011.com:8080/images/5825f3b2cd0eedb0fc8ff03f93d58143.png" group-title="? MEXICO",MX: Telehit Plus HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Telemax Hermosillo" tvg-logo="http://xtream-coders.com/x0/latino/telemax.png" group-title="? MEXICO",MX: Telemax Hermosillo
-http://chapotv.com:8080/live/Miguel/Miguel2020/140711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Teleritmo" tvg-logo="http://xtream-coders.com/x0/latino/teleritmo.png" group-title="? MEXICO",MX: Teleritmo
-http://chapotv.com:8080/live/Miguel/Miguel2020/140712.m3u8
-#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX: TeleVer HD" tvg-logo="http://xtream-coders.com/x0/latino/telever.png" group-title="? MEXICO",MX: TeleVer HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Puebla HD" tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png" group-title="? MEXICO",MX: Televisa Puebla HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: TLC HD" tvg-logo="http://xtream-coders.com/x0/latino/tlc.png" group-title="? MEXICO",MX: TLC HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140629.m3u8
-#EXTINF:-1 tvg-id="~ TLR" tvg-name="MX: TLR" tvg-logo="http://xtream-coders.com/x0/latino/tlr_team_losi_racing.png" group-title="? MEXICO",MX: TLR
-http://chapotv.com:8080/live/Miguel/Miguel2020/140670.m3u8
-#EXTINF:-1 tvg-id="~ HD TNT" tvg-name="MX: TNT HD" tvg-logo="http://xtream-coders.com/x0/latino/tnt.png" group-title="? MEXICO",MX: TNT HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140590.m3u8
-#EXTINF:-1 tvg-id="~ HD TNT Series" tvg-name="MX: TNT Series" tvg-logo="http://xtream-coders.com/x0/latino/tnt_series.png" group-title="? MEXICO",MX: TNT Series
-http://chapotv.com:8080/live/Miguel/Miguel2020/140623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Transmedia TV Morelia" tvg-logo="http://xtream-coders.com/x0/latino/transmedia_tv.png" group-title="? MEXICO",MX: Transmedia TV Morelia
-http://chapotv.com:8080/live/Miguel/Miguel2020/140713.m3u8
-#EXTINF:-1 tvg-id="~ SD TRU TV" tvg-name="MX: Tru TV HD" tvg-logo="http://xtream-coders.com/x0/latino/tru_tv.png" group-title="? MEXICO",MX: Tru TV HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: Tv 4 (GTO)" tvg-logo="http://xtream-coders.com/x0/latino/tv4.png" group-title="? MEXICO",MX: Tv 4 (GTO)
-http://chapotv.com:8080/live/Miguel/Miguel2020/140519.m3u8
-#EXTINF:-1 tvg-id="~ HD Tv Cuatro (Leon)" tvg-name="MX: TV Cuatro (Leon) HD" tvg-logo="http://xtream-coders.com/x0/latino/tv4.png" group-title="? MEXICO",MX: TV Cuatro (Leon) HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140661.m3u8
-#EXTINF:-1 tvg-id="~ SD TV MAS" tvg-name="MX: TV MAS HD" tvg-logo="http://xtream-coders.com/x0/latino/tvmas.png" group-title="? MEXICO",MX: TV MAS HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140639.m3u8
-#EXTINF:-1 tvg-id="~ SD TV5 FRANCIA" tvg-name="MX: TV5 Francia" tvg-logo="http://xtream-coders.com/x0/latino/tv_monde.png" group-title="? MEXICO",MX: TV5 Francia
-http://chapotv.com:8080/live/Miguel/Miguel2020/140512.m3u8
-#EXTINF:-1 tvg-id="~ HD TVO" tvg-name="MX: TVO HD" tvg-logo="http://xtream-coders.com/x0/latino/tvo.png" group-title="? MEXICO",MX: TVO HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140651.m3u8
-#EXTINF:-1 tvg-id="~ SD UNICABLE" tvg-name="MX: Unicable HD" tvg-logo="http://xtream-coders.com/x0/latino/unicable.png" group-title="? MEXICO",MX: Unicable HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: VH1 Classic HD" tvg-logo="http://xtream-coders.com/x0/latino/vh1_classic.png" group-title="? MEXICO",MX: VH1 Classic HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX: VH1 HD" tvg-logo="http://xtream-coders.com/x0/latino/vh1_classic.png" group-title="? MEXICO",MX: VH1 HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140569.m3u8
-#EXTINF:-1 tvg-id="~ SD WARNER CH" tvg-name="MX: Warner HD" tvg-logo="http://xtream-coders.com/x0/latino/warner_tv.png" group-title="? MEXICO",MX: Warner HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140355.m3u8
-#EXTINF:-1 tvg-id="~ HD Wobi" tvg-name="MX: WOBI HD" tvg-logo="http://xtream-coders.com/x0/latino/wobi.png" group-title="? MEXICO",MX: WOBI HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/140594.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="LAT: Boing" tvg-logo="http://xtream-coders.com/x0/kids/boing.png" group-title="■ CARICATURAS",LAT: Boing
-http://chapotv.com:8080/live/Miguel/Miguel2020/115387.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="LAT: Cartoon Network | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/cartoonn.png" group-title="■ CARICATURAS",LAT: Cartoon Network | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140608.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="LAT: Disney XD | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/disney_xd.png" group-title="■ CARICATURAS",LAT: Disney XD | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140607.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="LAT: Disney Channel" tvg-logo="http://xtream-coders.com/x0/kids/disney_channel.png" group-title="■ CARICATURAS",LAT: Disney Channel
-http://chapotv.com:8080/live/Miguel/Miguel2020/43776.m3u8
-#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="LAT: Disney Channel | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/disney_channel.png" group-title="■ CARICATURAS",LAT: Disney Channel | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140612.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="■ CARICATURAS",LAT: Nickelodeon | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140610.m3u8
-#EXTINF:-1 tvg-id="Nicktoons(English).mx" tvg-name="LAT: Nick 2 | Mexico" tvg-logo="http://011011011.com:8080/images/f4af4d7227f9ab4941e594ab2aa46e93.png" group-title="■ CARICATURAS",LAT: Nick 2 | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140654.m3u8
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="LAT: Nick Jr. | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/disneyjr.png" group-title="■ CARICATURAS",LAT: Nick Jr. | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140613.m3u8
-#EXTINF:-1 tvg-id="~ Nicktoons" tvg-name="LAT: NickToons | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nick_toons.png" group-title="■ CARICATURAS",LAT: NickToons | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140611.m3u8
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="LAT: Nat Geo Kids | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/natgeokids.png" group-title="■ CARICATURAS",LAT: Nat Geo Kids | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140518.m3u8
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="LAT: Nat Geo Kids | Mexico" tvg-logo="http://011011011.com:8080/images/edace9b06c8505976d18524a2ee47a31.png" group-title="■ CARICATURAS",LAT: Nat Geo Kids | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140634.m3u8
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="LAT: Tooncast | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/toons.png" group-title="■ CARICATURAS",LAT: Tooncast | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/140605.m3u8
+#EXTINF:-1, Univision
 
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="LAT: Golden MX" tvg-logo="http://xtream-coders.com/x0/latino/golden.png" group-title="¦ CINEMA",LAT: Golden MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161194.m3u8
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="LAT: Golden Plus HD MX" tvg-logo="http://xtream-coders.com/x0/latino/golden_edge.png" group-title="¦ CINEMA",LAT: Golden Plus HD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161170.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="LAT: De Pelicula MX" tvg-logo="http://xtream-coders.com/x0/latino/de_pelicula.png" group-title="¦ CINEMA",LAT: De Pelicula MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161171.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="LAT: Golden Edge SD MX" tvg-logo="http://011011011.com:8080/images/4ba3b07ed197cbee2c2d5d3b740d87a8.png" group-title="¦ CINEMA",LAT: Golden Edge SD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161172.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="LAT: Sony Channel HD MX" tvg-logo="http://xtream-coders.com/x0/uk/sonymovies.png" group-title="¦ CINEMA",LAT: Sony Channel HD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161174.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="LAT: Paramount SD MX" tvg-logo="http://xtream-coders.com/x0/entertainment/paramount_channel.png" group-title="¦ CINEMA",LAT: Paramount SD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161180.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="LAT: Studio Universal SD MX" tvg-logo="http://011011011.com:8080/images/786849df1bfb117ac45f7f2d74c26962.png" group-title="¦ CINEMA",LAT: Studio Universal SD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161190.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="LAT: Universal Vip HD MX" tvg-logo="http://xtream-coders.com/x0/latino/universal_channel.png" group-title="¦ CINEMA",LAT: Universal Vip HD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161166.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="LAT: Warner HD MX" tvg-logo="http://011011011.com:8080/images/cae76fb0e8738177e5b55075707d947f.png" group-title="¦ CINEMA",LAT: Warner HD MX
-http://chapotv.com:8080/live/Miguel/Miguel2020/161178.m3u8
+http://appleiptv.com:25461/live/1819/1819/27211.m3u8
 
-#EXTINF:-1 tvg-id="Dep|| TUDN MX HD" tvg-name="LAT: TUDN HD | Mexico " tvg-logo="http://xtream-coders.com/x0/deportes/tudn.png" group-title="¦ DEPORTES",LAT: TUDN HD | Mexico 
-http://chapotv.com:8080/live/Miguel/Miguel2020/132852.m3u8
-#EXTINF:-1 tvg-id="Dep|| Fox Sports 3 SD | Mexico" tvg-name="LAT: FOX SPORTS 3 SD | Mexico" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports3.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 3 SD | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/132834.m3u8
-#EXTINF:-1 tvg-id="Dep|| Fox Sports 3 HD | Mexico" tvg-name="LAT: FOX SPORTS 3 HD | Mexico" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports3.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 3 HD | Mexico
-http://chapotv.com:8080/live/Miguel/Miguel2020/132833.m3u8
-#EXTINF:-1 tvg-id="~ CV FOX Sports 3" tvg-name="LAT: FOX SPORTS 3 | CV" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports3.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 3 | CV
-http://chapotv.com:8080/live/Miguel/Miguel2020/132832.m3u8
-#EXTINF:-1 tvg-id="CLARO2: FOX SPORT 3 MX" tvg-name="LAT: FOX SPORTS 3 | Latino" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports3.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 3 | Latino
-http://chapotv.com:8080/live/Miguel/Miguel2020/132817.m3u8
-#EXTINF:-1 tvg-id="CLARO2: FOX SPORTS 3" tvg-name="LAT: FOX SPORTS 3 | Latino America" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports3.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 3 | Latino America
-http://chapotv.com:8080/live/Miguel/Miguel2020/132831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAT: FOX SPORTS PREMIUM LQ" tvg-logo="http://xtream-coders.com/x0/deportes/foxsportspremium.png" group-title="¦ DEPORTES",LAT: FOX SPORTS PREMIUM LQ
-http://chapotv.com:8080/live/Miguel/Miguel2020/118400.m3u8
-#EXTINF:-1 tvg-id="Dep|| Fox Sports Premium #" tvg-name="LAT: FOX SPORTS PREMIUM HD" tvg-logo="http://xtream-coders.com/x0/deportes/foxsportspremium.png" group-title="¦ DEPORTES",LAT: FOX SPORTS PREMIUM HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/132838.m3u8
-#EXTINF:-1 tvg-id="CLARO2: FOX SPORTS" tvg-name="LAT: FOX SPORTS 1 | Latino America" tvg-logo="http://xtream-coders.com/x0/deportes/foxsports1.png" group-title="¦ DEPORTES",LAT: FOX SPORTS 1 | Latino America
-http://chapotv.com:8080/live/Miguel/Miguel2020/132836.m3u8
-#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="LAT: Gol Peru SD | Peru" tvg-logo="http://011011011.com:8080/images/96f5e37558dde0f164cac3ab72eaa6ed.png" group-title="¦ DEPORTES",LAT: Gol Peru SD | Peru
-http://chapotv.com:8080/live/Miguel/Miguel2020/132841.m3u8
-#EXTINF:-1 tvg-id="Dep|| Gol TV  | Ecuador" tvg-name="LAT: Gol TV | Ecuador" tvg-logo="http://011011011.com:8080/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="¦ DEPORTES",LAT: Gol TV | Ecuador
-http://chapotv.com:8080/live/Miguel/Miguel2020/132842.m3u8
-#EXTINF:-1 tvg-id="~ SD GOLF CH" tvg-name="LAT: NBC GOLF SD" tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png" group-title="¦ DEPORTES",LAT: NBC GOLF SD
-http://chapotv.com:8080/live/Miguel/Miguel2020/132847.m3u8
-#EXTINF:-1 tvg-id="~ HD NBC Golf." tvg-name="LAT: NBC Golf HD" tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png" group-title="¦ DEPORTES",LAT: NBC Golf HD
-http://chapotv.com:8080/live/Miguel/Miguel2020/132845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAT: REAL MADRID" tvg-logo="http://xtream-coders.com/x0/deportes/realmadrid.png" group-title="¦ DEPORTES",LAT: REAL MADRID
-http://chapotv.com:8080/live/Miguel/Miguel2020/128336.m3u8
-#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="LAT: TNT SPORTS" tvg-logo="http://011011011.com:8080/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="¦ DEPORTES",LAT: TNT SPORTS
-http://chapotv.com:8080/live/Miguel/Miguel2020/132850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAT: TVC" tvg-logo="http://xtream-coders.com/x0/deportes/tvc.png" group-title="¦ DEPORTES",LAT: TVC
-http://chapotv.com:8080/live/Miguel/Miguel2020/43697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAT: TYC SPORT" tvg-logo="http://xtream-coders.com/x0/deportes/tycsports.png" group-title="¦ DEPORTES",LAT: TYC SPORT
-http://chapotv.com:8080/live/Miguel/Miguel2020/92039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAT: WIN SPORTS" tvg-logo="http://xtream-coders.com/x0/deportes/winsports.png" group-title="¦ DEPORTES",LAT: WIN SPORTS
-http://chapotv.com:8080/live/Miguel/Miguel2020/92041.m3u8
-#EXTINF:-1 tvg-id="CLARO2: Win Sports" tvg-name="LAT: WIN SPORTS +" tvg-logo="http://xtream-coders.com/x0/deportes/winsportsplus.png" group-title="¦ DEPORTES",LAT: WIN SPORTS +
-http://chapotv.com:8080/live/Miguel/Miguel2020/132855.m3u8
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="TX: Houston - Galavision" tvg-logo="http://xtream-coders.com/x0/locals/TX_HOUSTON_GALAVISION.png" group-title="¦ UNIVISION | TELEMUNDO",TX: Houston - Galavision
-http://chapotv.com:8080/live/Miguel/Miguel2020/107392.m3u8
-#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="TX: Houston - Telemundo " tvg-logo="http://xtream-coders.com/x0/locals/TX_HOUSTON_TELEMUNDO.png" group-title="¦ UNIVISION | TELEMUNDO",TX: Houston - Telemundo 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107333.m3u8
-#EXTINF:-1 tvg-id="unimas67kfth.us" tvg-name="TX: Houston - UniMas " tvg-logo="http://xtream-coders.com/x0/locals/TX_HOUSTON_UNIMAS.png" group-title="¦ UNIVISION | TELEMUNDO",TX: Houston - UniMas 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107381.m3u8
-#EXTINF:-1 tvg-id="univision45kxln.us" tvg-name="TX: Houston - Univision " tvg-logo="http://xtream-coders.com/x0/locals/TX_HOUSTON_UNIVISION.png" group-title="¦ UNIVISION | TELEMUNDO",TX: Houston - Univision 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107360.m3u8
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="IL: Chicago - Telemundo " tvg-logo="https://cdn6.aptoide.com/imgs/f/d/e/fde0c0917094ae5ba406219f4e22fe1a_icon.png?w=240" group-title="¦ UNIVISION | TELEMUNDO",IL: Chicago - Telemundo 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107337.m3u8
-#EXTINF:-1 tvg-id="univision66wgbo.us" tvg-name="IL: Chicago - Univision " tvg-logo="http://011011011.com:8080/images/0797b893422ff8dfb4a5002a845a571e.jpg" group-title="¦ UNIVISION | TELEMUNDO",IL: Chicago - Univision 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107356.m3u8
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="CA: Los Angeles - Galavision " tvg-logo="http://011011011.com:8080/images/e2106735e4959ce63cfcf872425ec08b.png" group-title="¦ UNIVISION | TELEMUNDO",CA: Los Angeles - Galavision 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107393.m3u8
-#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="CA: Los Angeles - Telemundo" tvg-logo="https://lh3.googleusercontent.com/GRZLkSx8xeaf0CahFJlUfT0bQ5Yxsn8KfalzK9Gn7KBkZGbVBjMX75Cm4XbwWYn3TA" group-title="¦ UNIVISION | TELEMUNDO",CA: Los Angeles - Telemundo
-http://chapotv.com:8080/live/Miguel/Miguel2020/107339.m3u8
-#EXTINF:-1 tvg-id="unimas46kftr.us" tvg-name="CA: Los Angeles - UniMas" tvg-logo="http://011011011.com:8080/images/f85ee882846f04cfe6e2483bc658b587.png" group-title="¦ UNIVISION | TELEMUNDO",CA: Los Angeles - UniMas
-http://chapotv.com:8080/live/Miguel/Miguel2020/107382.m3u8
-#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="CA: Los Angeles - Univision " tvg-logo="https://pbs.twimg.com/profile_images/1149771641464844288/K-K0bxru_400x400.png" group-title="¦ UNIVISION | TELEMUNDO",CA: Los Angeles - Univision 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107341.m3u8
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="CA: Fresno - Galavision " tvg-logo="http://011011011.com:8080/images/e2106735e4959ce63cfcf872425ec08b.png" group-title="¦ UNIVISION | TELEMUNDO",CA: Fresno - Galavision 
-http://chapotv.com:8080/live/Miguel/Miguel2020/107391.m3u8
+#EXTINF:-1, Univision East
+
+http://appleiptv.com:25461/live/1819/1819/27395.m3u8
+
+#EXTINF:-1, Univision tlnovelas
+
+http://appleiptv.com:25461/live/1819/1819/27399.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) NU9VE TV" tvg-logo="" group-title="Mexico",MX (HD) NU9VE TV
+http://appleiptv.com:25461/live/1819/1819/28681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP AFORE AZTECA" tvg-logo="" group-title="Mexico",MX (HD) TP AFORE AZTECA
+http://appleiptv.com:25461/live/1819/1819/28682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP IMAGEN TV." tvg-logo="" group-title="Mexico",MX (HD) TP IMAGEN TV.
+http://appleiptv.com:25461/live/1819/1819/28683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="" group-title="Mexico",MX (HD) TP LAS ESTRELLAS
+http://appleiptv.com:25461/live/1819/1819/28684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP Mexiquice" tvg-logo="" group-title="Mexico",MX (HD) TP Mexiquice
+http://appleiptv.com:25461/live/1819/1819/28685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP NAT GEO" tvg-logo="" group-title="Mexico",MX (HD) TP NAT GEO
+http://appleiptv.com:25461/live/1819/1819/28686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP PX Sports" tvg-logo="" group-title="Mexico",MX (HD) TP PX Sports
+http://appleiptv.com:25461/live/1819/1819/28687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP SENDERO" tvg-logo="" group-title="Mexico",MX (HD) TP SENDERO
+http://appleiptv.com:25461/live/1819/1819/28688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL1944" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL1944
+http://appleiptv.com:25461/live/1819/1819/28689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2089" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL2089
+http://appleiptv.com:25461/live/1819/1819/28690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2331" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL2331
+http://appleiptv.com:25461/live/1819/1819/28691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2355" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL2355
+http://appleiptv.com:25461/live/1819/1819/28692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL401" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL401
+http://appleiptv.com:25461/live/1819/1819/28693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL470" tvg-logo="" group-title="Mexico",MX (HD) TP TP CANAL470
+http://appleiptv.com:25461/live/1819/1819/28694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP VTV" tvg-logo="" group-title="Mexico",MX (HD) TP VTV
+http://appleiptv.com:25461/live/1819/1819/28695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD)  NU9VE TV" tvg-logo="" group-title="Mexico",MX (SD)  NU9VE TV
+http://appleiptv.com:25461/live/1819/1819/28696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) ANIMAL PLANET" tvg-logo="" group-title="Mexico",MX (SD) ANIMAL PLANET
+http://appleiptv.com:25461/live/1819/1819/28697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) Excelsior TV" tvg-logo="" group-title="Mexico",MX (SD) Excelsior TV
+http://appleiptv.com:25461/live/1819/1819/28698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) LIFETIME" tvg-logo="" group-title="Mexico",MX (SD) LIFETIME
+http://appleiptv.com:25461/live/1819/1819/28699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP  MTV HITS" tvg-logo="" group-title="Mexico",MX (SD) TP  MTV HITS
+http://appleiptv.com:25461/live/1819/1819/28700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP A&E" tvg-logo="" group-title="Mexico",MX (SD) TP A&E
+http://appleiptv.com:25461/live/1819/1819/28701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ADN40" tvg-logo="" group-title="Mexico",MX (SD) TP ADN40
+http://appleiptv.com:25461/live/1819/1819/28702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AL JAZZERA" tvg-logo="" group-title="Mexico",MX (SD) TP AL JAZZERA
+http://appleiptv.com:25461/live/1819/1819/28703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ANTENA3" tvg-logo="" group-title="Mexico",MX (SD) TP ANTENA3
+http://appleiptv.com:25461/live/1819/1819/28704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AXN" tvg-logo="" group-title="Mexico",MX (SD) TP AXN
+http://appleiptv.com:25461/live/1819/1819/28705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AYM Sport" tvg-logo="" group-title="Mexico",MX (SD) TP AYM Sport
+http://appleiptv.com:25461/live/1819/1819/28706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA 1" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA 1
+http://appleiptv.com:25461/live/1819/1819/28707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CINEMA" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA CINEMA
+http://appleiptv.com:25461/live/1819/1819/28708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CLICK" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA CLICK
+http://appleiptv.com:25461/live/1819/1819/28709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CORAZON" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA CORAZON
+http://appleiptv.com:25461/live/1819/1819/28710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CORAZON_" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA CORAZON_
+http://appleiptv.com:25461/live/1819/1819/28711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Azteca Deportes" tvg-logo="" group-title="Mexico",MX (SD) TP Azteca Deportes
+http://appleiptv.com:25461/live/1819/1819/28712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA MUNDO" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA MUNDO
+http://appleiptv.com:25461/live/1819/1819/28713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA7" tvg-logo="" group-title="Mexico",MX (SD) TP AZTECA7
+http://appleiptv.com:25461/live/1819/1819/28714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BABY FIRST" tvg-logo="" group-title="Mexico",MX (SD) TP BABY FIRST
+http://appleiptv.com:25461/live/1819/1819/28715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BANDAMAX" tvg-logo="" group-title="Mexico",MX (SD) TP BANDAMAX
+http://appleiptv.com:25461/live/1819/1819/28716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BBC WORLD NEWS" tvg-logo="" group-title="Mexico",MX (SD) TP BBC WORLD NEWS
+http://appleiptv.com:25461/live/1819/1819/28717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BLOMMBERG" tvg-logo="" group-title="Mexico",MX (SD) TP BLOMMBERG
+http://appleiptv.com:25461/live/1819/1819/28718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BLOOMBERG" tvg-logo="" group-title="Mexico",MX (SD) TP BLOOMBERG
+http://appleiptv.com:25461/live/1819/1819/28719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BOOMERANG" tvg-logo="" group-title="Mexico",MX (SD) TP BOOMERANG
+http://appleiptv.com:25461/live/1819/1819/28720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Cadena H" tvg-logo="" group-title="Mexico",MX (SD) TP Cadena H
+http://appleiptv.com:25461/live/1819/1819/28721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CADEND TV" tvg-logo="" group-title="Mexico",MX (SD) TP CADEND TV
+http://appleiptv.com:25461/live/1819/1819/28722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 26" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL 26
+http://appleiptv.com:25461/live/1819/1819/28723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 4" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL 4
+http://appleiptv.com:25461/live/1819/1819/28724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 5" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL 5
+http://appleiptv.com:25461/live/1819/1819/28725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 7" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL 7
+http://appleiptv.com:25461/live/1819/1819/28726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 8" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL 8
+http://appleiptv.com:25461/live/1819/1819/28727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL DE LAS ESTRELLAS
+http://appleiptv.com:25461/live/1819/1819/28728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL JUDICIAL" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL JUDICIAL
+http://appleiptv.com:25461/live/1819/1819/28729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL107" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL107
+http://appleiptv.com:25461/live/1819/1819/28730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL109" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL109
+http://appleiptv.com:25461/live/1819/1819/28731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1749" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL1749
+http://appleiptv.com:25461/live/1819/1819/28732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1899" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL1899
+http://appleiptv.com:25461/live/1819/1819/28733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1932" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL1932
+http://appleiptv.com:25461/live/1819/1819/28734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1944" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL1944
+http://appleiptv.com:25461/live/1819/1819/28735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2062" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL2062
+http://appleiptv.com:25461/live/1819/1819/28736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2278" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL2278
+http://appleiptv.com:25461/live/1819/1819/28737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2319" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL2319
+http://appleiptv.com:25461/live/1819/1819/28738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL317" tvg-logo="" group-title="Mexico",MX (SD) TP CANAL317
+http://appleiptv.com:25461/live/1819/1819/28739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CARTOON NETWORK" tvg-logo="" group-title="Mexico",MX (SD) TP CARTOON NETWORK
+http://appleiptv.com:25461/live/1819/1819/28740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CINECANAL" tvg-logo="" group-title="Mexico",MX (SD) TP CINECANAL
+http://appleiptv.com:25461/live/1819/1819/28741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CNN ESP" tvg-logo="" group-title="Mexico",MX (SD) TP CNN ESP
+http://appleiptv.com:25461/live/1819/1819/28742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CNN INT" tvg-logo="" group-title="Mexico",MX (SD) TP CNN INT
+http://appleiptv.com:25461/live/1819/1819/28743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP COMEDY CENTRAL" tvg-logo="" group-title="Mexico",MX (SD) TP COMEDY CENTRAL
+http://appleiptv.com:25461/live/1819/1819/28744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DE PELICULA" tvg-logo="" group-title="Mexico",MX (SD) TP DE PELICULA
+http://appleiptv.com:25461/live/1819/1819/28745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DE PELICULA_" tvg-logo="" group-title="Mexico",MX (SD) TP DE PELICULA_
+http://appleiptv.com:25461/live/1819/1819/28746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY CHANNEL" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY CHANNEL
+http://appleiptv.com:25461/live/1819/1819/28747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY CIVILIZATION" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY CIVILIZATION
+http://appleiptv.com:25461/live/1819/1819/28748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY H&H" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY H&H
+http://appleiptv.com:25461/live/1819/1819/28749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY ID" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY ID
+http://appleiptv.com:25461/live/1819/1819/28750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY KIDS" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY KIDS
+http://appleiptv.com:25461/live/1819/1819/28751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY SCI" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY SCI
+http://appleiptv.com:25461/live/1819/1819/28752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY TH" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY TH
+http://appleiptv.com:25461/live/1819/1819/28753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY TURBO" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY TURBO
+http://appleiptv.com:25461/live/1819/1819/28754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY WORLD" tvg-logo="" group-title="Mexico",MX (SD) TP DISCOVERY WORLD
+http://appleiptv.com:25461/live/1819/1819/28755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY CHANNEL" tvg-logo="" group-title="Mexico",MX (SD) TP DISNEY CHANNEL
+http://appleiptv.com:25461/live/1819/1819/28756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY JR" tvg-logo="" group-title="Mexico",MX (SD) TP DISNEY JR
+http://appleiptv.com:25461/live/1819/1819/28757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY XD" tvg-logo="" group-title="Mexico",MX (SD) TP DISNEY XD
+http://appleiptv.com:25461/live/1819/1819/28758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISTRITO COMEDIA" tvg-logo="" group-title="Mexico",MX (SD) TP DISTRITO COMEDIA
+http://appleiptv.com:25461/live/1819/1819/28759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DW" tvg-logo="" group-title="Mexico",MX (SD) TP DW
+http://appleiptv.com:25461/live/1819/1819/28760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP E!" tvg-logo="" group-title="Mexico",MX (SD) TP E!
+http://appleiptv.com:25461/live/1819/1819/28761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP El Gourmet" tvg-logo="" group-title="Mexico",MX (SD) TP El Gourmet
+http://appleiptv.com:25461/live/1819/1819/28762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN
+http://appleiptv.com:25461/live/1819/1819/28763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 2" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN 2
+http://appleiptv.com:25461/live/1819/1819/28764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 3" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN 3
+http://appleiptv.com:25461/live/1819/1819/28765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN NETWORK" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN NETWORK
+http://appleiptv.com:25461/live/1819/1819/28766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN PLUS" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN PLUS
+http://appleiptv.com:25461/live/1819/1819/28767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN U" tvg-logo="" group-title="Mexico",MX (SD) TP ESPN U
+http://appleiptv.com:25461/live/1819/1819/28768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FILM & ART" tvg-logo="" group-title="Mexico",MX (SD) TP FILM & ART
+http://appleiptv.com:25461/live/1819/1819/28769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOOD NETWORK" tvg-logo="" group-title="Mexico",MX (SD) TP FOOD NETWORK
+http://appleiptv.com:25461/live/1819/1819/28770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FORMULA TV" tvg-logo="" group-title="Mexico",MX (SD) TP FORMULA TV
+http://appleiptv.com:25461/live/1819/1819/28771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX" tvg-logo="" group-title="Mexico",MX (SD) TP FOX
+http://appleiptv.com:25461/live/1819/1819/28772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX ACTION" tvg-logo="" group-title="Mexico",MX (SD) TP FOX ACTION
+http://appleiptv.com:25461/live/1819/1819/28773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CHANNEL" tvg-logo="" group-title="Mexico",MX (SD) TP FOX CHANNEL
+http://appleiptv.com:25461/live/1819/1819/28774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CINEMA" tvg-logo="" group-title="Mexico",MX (SD) TP FOX CINEMA
+http://appleiptv.com:25461/live/1819/1819/28775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CLASSICS" tvg-logo="" group-title="Mexico",MX (SD) TP FOX CLASSICS
+http://appleiptv.com:25461/live/1819/1819/28776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX LIFE" tvg-logo="" group-title="Mexico",MX (SD) TP FOX LIFE
+http://appleiptv.com:25461/live/1819/1819/28777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX MOVIE" tvg-logo="" group-title="Mexico",MX (SD) TP FOX MOVIE
+http://appleiptv.com:25461/live/1819/1819/28778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX NEWS" tvg-logo="" group-title="Mexico",MX (SD) TP FOX NEWS
+http://appleiptv.com:25461/live/1819/1819/28779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SERIES" tvg-logo="" group-title="Mexico",MX (SD) TP FOX SERIES
+http://appleiptv.com:25461/live/1819/1819/28780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS" tvg-logo="" group-title="Mexico",MX (SD) TP FOX SPORTS
+http://appleiptv.com:25461/live/1819/1819/28781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 2" tvg-logo="" group-title="Mexico",MX (SD) TP FOX SPORTS 2
+http://appleiptv.com:25461/live/1819/1819/28782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 3" tvg-logo="" group-title="Mexico",MX (SD) TP FOX SPORTS 3
+http://appleiptv.com:25461/live/1819/1819/28783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FX" tvg-logo="" group-title="Mexico",MX (SD) TP FX
+http://appleiptv.com:25461/live/1819/1819/28784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FXM" tvg-logo="" group-title="Mexico",MX (SD) TP FXM
+http://appleiptv.com:25461/live/1819/1819/28785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN" tvg-logo="" group-title="Mexico",MX (SD) TP GOLDEN
+http://appleiptv.com:25461/live/1819/1819/28786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN EDGE" tvg-logo="" group-title="Mexico",MX (SD) TP GOLDEN EDGE
+http://appleiptv.com:25461/live/1819/1819/28787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN PLUS" tvg-logo="" group-title="Mexico",MX (SD) TP GOLDEN PLUS
+http://appleiptv.com:25461/live/1819/1819/28788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLF CH" tvg-logo="" group-title="Mexico",MX (SD) TP GOLF CH
+http://appleiptv.com:25461/live/1819/1819/28789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HISTORY" tvg-logo="" group-title="Mexico",MX (SD) TP HISTORY
+http://appleiptv.com:25461/live/1819/1819/28790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HLN" tvg-logo="" group-title="Mexico",MX (SD) TP HLN
+http://appleiptv.com:25461/live/1819/1819/28791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HOLA TV" tvg-logo="" group-title="Mexico",MX (SD) TP HOLA TV
+http://appleiptv.com:25461/live/1819/1819/28792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP i CLASSIC" tvg-logo="" group-title="Mexico",MX (SD) TP i CLASSIC
+http://appleiptv.com:25461/live/1819/1819/28793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP I SAT" tvg-logo="" group-title="Mexico",MX (SD) TP I SAT
+http://appleiptv.com:25461/live/1819/1819/28794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP IMAGEN TV" tvg-logo="" group-title="Mexico",MX (SD) TP IMAGEN TV
+http://appleiptv.com:25461/live/1819/1819/28795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP INGENIO TV" tvg-logo="" group-title="Mexico",MX (SD) TP INGENIO TV
+http://appleiptv.com:25461/live/1819/1819/28796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ITV" tvg-logo="" group-title="Mexico",MX (SD) TP ITV
+http://appleiptv.com:25461/live/1819/1819/28797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo="" group-title="Mexico",MX (SD) TP LAS ESTRELLAS
+http://appleiptv.com:25461/live/1819/1819/28798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MAS CHIC" tvg-logo="" group-title="Mexico",MX (SD) TP MAS CHIC
+http://appleiptv.com:25461/live/1819/1819/28799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Mexiquice" tvg-logo="" group-title="Mexico",MX (SD) TP Mexiquice
+http://appleiptv.com:25461/live/1819/1819/28800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Milenio TV" tvg-logo="" group-title="Mexico",MX (SD) TP Milenio TV
+http://appleiptv.com:25461/live/1819/1819/28801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MTV" tvg-logo="" group-title="Mexico",MX (SD) TP MTV
+http://appleiptv.com:25461/live/1819/1819/28802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MTV LIVE" tvg-logo="" group-title="Mexico",MX (SD) TP MTV LIVE
+http://appleiptv.com:25461/live/1819/1819/28803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MULTIMEDIOS" tvg-logo="" group-title="Mexico",MX (SD) TP MULTIMEDIOS
+http://appleiptv.com:25461/live/1819/1819/28804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MULTIMEDIOS P." tvg-logo="" group-title="Mexico",MX (SD) TP MULTIMEDIOS P.
+http://appleiptv.com:25461/live/1819/1819/28805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO" tvg-logo="" group-title="Mexico",MX (SD) TP NAT GEO
+http://appleiptv.com:25461/live/1819/1819/28806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO KIDS" tvg-logo="" group-title="Mexico",MX (SD) TP NAT GEO KIDS
+http://appleiptv.com:25461/live/1819/1819/28807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO WILD" tvg-logo="" group-title="Mexico",MX (SD) TP NAT GEO WILD
+http://appleiptv.com:25461/live/1819/1819/28808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK" tvg-logo="" group-title="Mexico",MX (SD) TP NICK
+http://appleiptv.com:25461/live/1819/1819/28809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK 2" tvg-logo="" group-title="Mexico",MX (SD) TP NICK 2
+http://appleiptv.com:25461/live/1819/1819/28810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK JR" tvg-logo="" group-title="Mexico",MX (SD) TP NICK JR
+http://appleiptv.com:25461/live/1819/1819/28811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICKTOONS" tvg-logo="" group-title="Mexico",MX (SD) TP NICKTOONS
+http://appleiptv.com:25461/live/1819/1819/28812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NTN24" tvg-logo="" group-title="Mexico",MX (SD) TP NTN24
+http://appleiptv.com:25461/live/1819/1819/28813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP PARAMOUNT" tvg-logo="" group-title="Mexico",MX (SD) TP PARAMOUNT
+http://appleiptv.com:25461/live/1819/1819/28814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Q TV" tvg-logo="" group-title="Mexico",MX (SD) TP Q TV
+http://appleiptv.com:25461/live/1819/1819/28815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP RMS" tvg-logo="" group-title="Mexico",MX (SD) TP RMS
+http://appleiptv.com:25461/live/1819/1819/28816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP RMS_" tvg-logo="" group-title="Mexico",MX (SD) TP RMS_
+http://appleiptv.com:25461/live/1819/1819/28817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SONY" tvg-logo="" group-title="Mexico",MX (SD) TP SONY
+http://appleiptv.com:25461/live/1819/1819/28818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SPACE" tvg-logo="" group-title="Mexico",MX (SD) TP SPACE
+http://appleiptv.com:25461/live/1819/1819/28819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP STAR TVE" tvg-logo="" group-title="Mexico",MX (SD) TP STAR TVE
+http://appleiptv.com:25461/live/1819/1819/28820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP STUDIO UNIVERSAL" tvg-logo="" group-title="Mexico",MX (SD) TP STUDIO UNIVERSAL
+http://appleiptv.com:25461/live/1819/1819/28821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SUNDNCE" tvg-logo="" group-title="Mexico",MX (SD) TP SUNDNCE
+http://appleiptv.com:25461/live/1819/1819/28822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SYFY" tvg-logo="" group-title="Mexico",MX (SD) TP SYFY
+http://appleiptv.com:25461/live/1819/1819/28823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TBS" tvg-logo="" group-title="Mexico",MX (SD) TP TBS
+http://appleiptv.com:25461/live/1819/1819/28824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TCM" tvg-logo="" group-title="Mexico",MX (SD) TP TCM
+http://appleiptv.com:25461/live/1819/1819/28825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELEHIT" tvg-logo="" group-title="Mexico",MX (SD) TP TELEHIT
+http://appleiptv.com:25461/live/1819/1819/28826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELENOVELAS" tvg-logo="" group-title="Mexico",MX (SD) TP TELENOVELAS
+http://appleiptv.com:25461/live/1819/1819/28827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELERITMO" tvg-logo="" group-title="Mexico",MX (SD) TP TELERITMO
+http://appleiptv.com:25461/live/1819/1819/28828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELEVISA" tvg-logo="" group-title="Mexico",MX (SD) TP TELEVISA
+http://appleiptv.com:25461/live/1819/1819/28829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Telmex" tvg-logo="" group-title="Mexico",MX (SD) TP Telmex
+http://appleiptv.com:25461/live/1819/1819/28830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TLC" tvg-logo="" group-title="Mexico",MX (SD) TP TLC
+http://appleiptv.com:25461/live/1819/1819/28831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TLR" tvg-logo="" group-title="Mexico",MX (SD) TP TLR
+http://appleiptv.com:25461/live/1819/1819/28832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TNT" tvg-logo="" group-title="Mexico",MX (SD) TP TNT
+http://appleiptv.com:25461/live/1819/1819/28833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TNT SERIES" tvg-logo="" group-title="Mexico",MX (SD) TP TNT SERIES
+http://appleiptv.com:25461/live/1819/1819/28834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TOONCAST" tvg-logo="" group-title="Mexico",MX (SD) TP TOONCAST
+http://appleiptv.com:25461/live/1819/1819/28835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL Once" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL Once
+http://appleiptv.com:25461/live/1819/1819/28836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL104" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL104
+http://appleiptv.com:25461/live/1819/1819/28837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL113" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL113
+http://appleiptv.com:25461/live/1819/1819/28838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL1755" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL1755
+http://appleiptv.com:25461/live/1819/1819/28839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL1870" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL1870
+http://appleiptv.com:25461/live/1819/1819/28840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2089" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL2089
+http://appleiptv.com:25461/live/1819/1819/28841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL211" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL211
+http://appleiptv.com:25461/live/1819/1819/28842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2113" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL2113
+http://appleiptv.com:25461/live/1819/1819/28843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2145" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL2145
+http://appleiptv.com:25461/live/1819/1819/28844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2331" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL2331
+http://appleiptv.com:25461/live/1819/1819/28845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2336I" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL2336I
+http://appleiptv.com:25461/live/1819/1819/28846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL270" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL270
+http://appleiptv.com:25461/live/1819/1819/28847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL270_" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL270_
+http://appleiptv.com:25461/live/1819/1819/28848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL44" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL44
+http://appleiptv.com:25461/live/1819/1819/28849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL481" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL481
+http://appleiptv.com:25461/live/1819/1819/28850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL490" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL490
+http://appleiptv.com:25461/live/1819/1819/28851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL556" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL556
+http://appleiptv.com:25461/live/1819/1819/28852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL66679" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL66679
+http://appleiptv.com:25461/live/1819/1819/28853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL667" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL667
+http://appleiptv.com:25461/live/1819/1819/28854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL766" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL766
+http://appleiptv.com:25461/live/1819/1819/28855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL8345" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL8345
+http://appleiptv.com:25461/live/1819/1819/28856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL9999" tvg-logo="" group-title="Mexico",MX (SD) TP TP CANAL9999
+http://appleiptv.com:25461/live/1819/1819/28857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TRU TV" tvg-logo="" group-title="Mexico",MX (SD) TP TRU TV
+http://appleiptv.com:25461/live/1819/1819/28858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TV MAS" tvg-logo="" group-title="Mexico",MX (SD) TP TV MAS
+http://appleiptv.com:25461/live/1819/1819/28859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TV5 FRANCIA" tvg-logo="" group-title="Mexico",MX (SD) TP TV5 FRANCIA
+http://appleiptv.com:25461/live/1819/1819/28860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVC" tvg-logo="" group-title="Mexico",MX (SD) TP TVC
+http://appleiptv.com:25461/live/1819/1819/28861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVCD" tvg-logo="" group-title="Mexico",MX (SD) TP TVCD
+http://appleiptv.com:25461/live/1819/1819/28862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVE" tvg-logo="" group-title="Mexico",MX (SD) TP TVE
+http://appleiptv.com:25461/live/1819/1819/28863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP UNICABLE" tvg-logo="" group-title="Mexico",MX (SD) TP UNICABLE
+http://appleiptv.com:25461/live/1819/1819/28864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP UNIVERSAL" tvg-logo="" group-title="Mexico",MX (SD) TP UNIVERSAL
+http://appleiptv.com:25461/live/1819/1819/28865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP VH1" tvg-logo="" group-title="Mexico",MX (SD) TP VH1
+http://appleiptv.com:25461/live/1819/1819/28866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP VH1 P" tvg-logo="" group-title="Mexico",MX (SD) TP VH1 P
+http://appleiptv.com:25461/live/1819/1819/28867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP WARNER CH" tvg-logo="" group-title="Mexico",MX (SD) TP WARNER CH
+http://appleiptv.com:25461/live/1819/1819/28868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP WOBI" tvg-logo="" group-title="Mexico",MX (SD) TP WOBI
+http://appleiptv.com:25461/live/1819/1819/28869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX A Plus" tvg-logo="" group-title="Mexico",MX A Plus
+http://appleiptv.com:25461/live/1819/1819/28870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX A&E HD" tvg-logo="" group-title="Mexico",MX A&E HD
+http://appleiptv.com:25461/live/1819/1819/28871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX A3 Series HD" tvg-logo="" group-title="Mexico",MX A3 Series HD
+http://appleiptv.com:25461/live/1819/1819/28872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX ADN40 HD" tvg-logo="" group-title="Mexico",MX ADN40 HD
+http://appleiptv.com:25461/live/1819/1819/28873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Al Jazeera HD" tvg-logo="" group-title="Mexico",MX Al Jazeera HD
+http://appleiptv.com:25461/live/1819/1819/28874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AMC HD" tvg-logo="" group-title="Mexico",MX AMC HD
+http://appleiptv.com:25461/live/1819/1819/28875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Animal Planet HD" tvg-logo="" group-title="Mexico",MX Animal Planet HD
+http://appleiptv.com:25461/live/1819/1819/28876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Antena 3 HD" tvg-logo="" group-title="Mexico",MX Antena 3 HD
+http://appleiptv.com:25461/live/1819/1819/28877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AXN HD" tvg-logo="" group-title="Mexico",MX AXN HD
+http://appleiptv.com:25461/live/1819/1819/28878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AYM Sports" tvg-logo="" group-title="Mexico",MX AYM Sports
+http://appleiptv.com:25461/live/1819/1819/28879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AZ Cinema HD" tvg-logo="" group-title="Mexico",MX AZ Cinema HD
+http://appleiptv.com:25461/live/1819/1819/28880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AZ Click B1" tvg-logo="" group-title="Mexico",MX AZ Click B1
+http://appleiptv.com:25461/live/1819/1819/28881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Az Click SD" tvg-logo="" group-title="Mexico",MX Az Click SD
+http://appleiptv.com:25461/live/1819/1819/28882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AZ Corazon HD" tvg-logo="" group-title="Mexico",MX AZ Corazon HD
+http://appleiptv.com:25461/live/1819/1819/28883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AZ Corazon SD" tvg-logo="" group-title="Mexico",MX AZ Corazon SD
+http://appleiptv.com:25461/live/1819/1819/28884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX AZ Mundo HD" tvg-logo="" group-title="Mexico",MX AZ Mundo HD
+http://appleiptv.com:25461/live/1819/1819/28885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo="" group-title="Mexico",MX Azteca 7 HD
+http://appleiptv.com:25461/live/1819/1819/28886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 SD" tvg-logo="" group-title="Mexico",MX Azteca 7 SD
+http://appleiptv.com:25461/live/1819/1819/28887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca Deportes HD" tvg-logo="" group-title="Mexico",MX Azteca Deportes HD
+http://appleiptv.com:25461/live/1819/1819/28888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca Uno HD B1" tvg-logo="" group-title="Mexico",MX Azteca Uno HD B1
+http://appleiptv.com:25461/live/1819/1819/28889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Baby TV HD" tvg-logo="" group-title="Mexico",MX Baby TV HD
+http://appleiptv.com:25461/live/1819/1819/28890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Bandamax" tvg-logo="" group-title="Mexico",MX Bandamax
+http://appleiptv.com:25461/live/1819/1819/28891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX BBC World News" tvg-logo="" group-title="Mexico",MX BBC World News
+http://appleiptv.com:25461/live/1819/1819/28892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Bloomberg B1 HD" tvg-logo="" group-title="Mexico",MX Bloomberg B1 HD
+http://appleiptv.com:25461/live/1819/1819/28893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Bloomberg HD" tvg-logo="" group-title="Mexico",MX Bloomberg HD
+http://appleiptv.com:25461/live/1819/1819/28894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Boomerang HD" tvg-logo="" group-title="Mexico",MX Boomerang HD
+http://appleiptv.com:25461/live/1819/1819/28895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Cadena H HD" tvg-logo="" group-title="Mexico",MX Cadena H HD
+http://appleiptv.com:25461/live/1819/1819/28896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 2" tvg-logo="" group-title="Mexico",MX Canal 2
+http://appleiptv.com:25461/live/1819/1819/28897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 26 HD" tvg-logo="" group-title="Mexico",MX Canal 26 HD
+http://appleiptv.com:25461/live/1819/1819/28898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 4 HD" tvg-logo="" group-title="Mexico",MX Canal 4 HD
+http://appleiptv.com:25461/live/1819/1819/28899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 5 HD" tvg-logo="" group-title="Mexico",MX Canal 5 HD
+http://appleiptv.com:25461/live/1819/1819/28900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 8 HD" tvg-logo="" group-title="Mexico",MX Canal 8 HD
+http://appleiptv.com:25461/live/1819/1819/28901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal de las Estrellas HD" tvg-logo="" group-title="Mexico",MX Canal de las Estrellas HD
+http://appleiptv.com:25461/live/1819/1819/28902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal Judicial HD" tvg-logo="" group-title="Mexico",MX Canal Judicial HD
+http://appleiptv.com:25461/live/1819/1819/28903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Cartoon Network HD" tvg-logo="" group-title="Mexico",MX Cartoon Network HD
+http://appleiptv.com:25461/live/1819/1819/28904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Cinecanal HD" tvg-logo="" group-title="Mexico",MX Cinecanal HD
+http://appleiptv.com:25461/live/1819/1819/28905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Cinemax HD" tvg-logo="" group-title="Mexico",MX Cinemax HD
+http://appleiptv.com:25461/live/1819/1819/28906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX CNN en Espa" tvg-logo="" group-title="Mexico",MX CNN en Espa
+http://appleiptv.com:25461/live/1819/1819/28907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX CNN International" tvg-logo="" group-title="Mexico",MX CNN International
+http://appleiptv.com:25461/live/1819/1819/28908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Comedy Central HD" tvg-logo="" group-title="Mexico",MX Comedy Central HD
+http://appleiptv.com:25461/live/1819/1819/28909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX De Pelicula" tvg-logo="" group-title="Mexico",MX De Pelicula
+http://appleiptv.com:25461/live/1819/1819/28910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX De Pelicula Plus HD" tvg-logo="" group-title="Mexico",MX De Pelicula Plus HD
+http://appleiptv.com:25461/live/1819/1819/28911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Channel HD" tvg-logo="" group-title="Mexico",MX Discovery Channel HD
+http://appleiptv.com:25461/live/1819/1819/28912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Civilization" tvg-logo="" group-title="Mexico",MX Discovery Civilization
+http://appleiptv.com:25461/live/1819/1819/28913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery H&H HD" tvg-logo="" group-title="Mexico",MX Discovery H&H HD
+http://appleiptv.com:25461/live/1819/1819/28914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Kids" tvg-logo="" group-title="Mexico",MX Discovery Kids
+http://appleiptv.com:25461/live/1819/1819/28915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Science" tvg-logo="" group-title="Mexico",MX Discovery Science
+http://appleiptv.com:25461/live/1819/1819/28916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Theater HD" tvg-logo="" group-title="Mexico",MX Discovery Theater HD
+http://appleiptv.com:25461/live/1819/1819/28917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Turbo HD" tvg-logo="" group-title="Mexico",MX Discovery Turbo HD
+http://appleiptv.com:25461/live/1819/1819/28918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Discovery World HD" tvg-logo="" group-title="Mexico",MX Discovery World HD
+http://appleiptv.com:25461/live/1819/1819/28919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Disney Channel" tvg-logo="" group-title="Mexico",MX Disney Channel
+http://appleiptv.com:25461/live/1819/1819/28920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Disney Jr." tvg-logo="" group-title="Mexico",MX Disney Jr.
+http://appleiptv.com:25461/live/1819/1819/28921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Disney XD" tvg-logo="" group-title="Mexico",MX Disney XD
+http://appleiptv.com:25461/live/1819/1819/28922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Distrito Comedia" tvg-logo="" group-title="Mexico",MX Distrito Comedia
+http://appleiptv.com:25461/live/1819/1819/28923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX DW" tvg-logo="" group-title="Mexico",MX DW
+http://appleiptv.com:25461/live/1819/1819/28924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX E! Entertainment HD" tvg-logo="" group-title="Mexico",MX E! Entertainment HD
+http://appleiptv.com:25461/live/1819/1819/28925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX El Gourmet HD" tvg-logo="" group-title="Mexico",MX El Gourmet HD
+http://appleiptv.com:25461/live/1819/1819/28926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn 2 HD" tvg-logo="" group-title="Mexico",MX Espn 2 HD
+http://appleiptv.com:25461/live/1819/1819/28927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn 3" tvg-logo="" group-title="Mexico",MX Espn 3
+http://appleiptv.com:25461/live/1819/1819/28928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn HD" tvg-logo="" group-title="Mexico",MX Espn HD
+http://appleiptv.com:25461/live/1819/1819/28929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn Plus HD" tvg-logo="" group-title="Mexico",MX Espn Plus HD
+http://appleiptv.com:25461/live/1819/1819/28930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn U HD" tvg-logo="" group-title="Mexico",MX Espn U HD
+http://appleiptv.com:25461/live/1819/1819/28931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Europa Europa" tvg-logo="" group-title="Mexico",MX Europa Europa
+http://appleiptv.com:25461/live/1819/1819/28932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Excelsior TV HD" tvg-logo="" group-title="Mexico",MX Excelsior TV HD
+http://appleiptv.com:25461/live/1819/1819/28933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Film & Arts" tvg-logo="" group-title="Mexico",MX Film & Arts
+http://appleiptv.com:25461/live/1819/1819/28934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Food Network HD" tvg-logo="" group-title="Mexico",MX Food Network HD
+http://appleiptv.com:25461/live/1819/1819/28935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Formula Noticias" tvg-logo="" group-title="Mexico",MX Formula Noticias
+http://appleiptv.com:25461/live/1819/1819/28936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Foro TV HD" tvg-logo="" group-title="Mexico",MX Foro TV HD
+http://appleiptv.com:25461/live/1819/1819/28937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox" tvg-logo="" group-title="Mexico",MX Fox
+http://appleiptv.com:25461/live/1819/1819/28938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Action HD" tvg-logo="" group-title="Mexico",MX Fox Action HD
+http://appleiptv.com:25461/live/1819/1819/28939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Cinema" tvg-logo="" group-title="Mexico",MX Fox Cinema
+http://appleiptv.com:25461/live/1819/1819/28940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Classics" tvg-logo="" group-title="Mexico",MX Fox Classics
+http://appleiptv.com:25461/live/1819/1819/28941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox HD" tvg-logo="" group-title="Mexico",MX Fox HD
+http://appleiptv.com:25461/live/1819/1819/28942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Life HD" tvg-logo="" group-title="Mexico",MX Fox Life HD
+http://appleiptv.com:25461/live/1819/1819/28943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Movies HD" tvg-logo="" group-title="Mexico",MX Fox Movies HD
+http://appleiptv.com:25461/live/1819/1819/28944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox News HD" tvg-logo="" group-title="Mexico",MX Fox News HD
+http://appleiptv.com:25461/live/1819/1819/28945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Series HD" tvg-logo="" group-title="Mexico",MX Fox Series HD
+http://appleiptv.com:25461/live/1819/1819/28946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 2 HD" tvg-logo="" group-title="Mexico",MX Fox Sports 2 HD
+http://appleiptv.com:25461/live/1819/1819/28947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 3 HD" tvg-logo="" group-title="Mexico",MX Fox Sports 3 HD
+http://appleiptv.com:25461/live/1819/1819/28948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX FoxSports 1 Mexico" tvg-logo="" group-title="Mexico",MX FoxSports 1 Mexico
+http://appleiptv.com:25461/live/1819/1819/28949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Francia 24 HD" tvg-logo="" group-title="Mexico",MX Francia 24 HD
+http://appleiptv.com:25461/live/1819/1819/28950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX FX HD" tvg-logo="" group-title="Mexico",MX FX HD
+http://appleiptv.com:25461/live/1819/1819/28951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX FXM HD" tvg-logo="" group-title="Mexico",MX FXM HD
+http://appleiptv.com:25461/live/1819/1819/28952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Garage TV" tvg-logo="" group-title="Mexico",MX Garage TV
+http://appleiptv.com:25461/live/1819/1819/28953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Glitz" tvg-logo="" group-title="Mexico",MX Glitz
+http://appleiptv.com:25461/live/1819/1819/28954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Golden" tvg-logo="" group-title="Mexico",MX Golden
+http://appleiptv.com:25461/live/1819/1819/28955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Golden Edge" tvg-logo="" group-title="Mexico",MX Golden Edge
+http://appleiptv.com:25461/live/1819/1819/28956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Golden Plus HD" tvg-logo="" group-title="Mexico",MX Golden Plus HD
+http://appleiptv.com:25461/live/1819/1819/28957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX History HD" tvg-logo="" group-title="Mexico",MX History HD
+http://appleiptv.com:25461/live/1819/1819/28958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX HLN HD" tvg-logo="" group-title="Mexico",MX HLN HD
+http://appleiptv.com:25461/live/1819/1819/28959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Hola TV HD" tvg-logo="" group-title="Mexico",MX Hola TV HD
+http://appleiptv.com:25461/live/1819/1819/28960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Investigation Discovery HD" tvg-logo="" group-title="Mexico",MX Investigation Discovery HD
+http://appleiptv.com:25461/live/1819/1819/28961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Investigation Discovery SD" tvg-logo="" group-title="Mexico",MX Investigation Discovery SD
+http://appleiptv.com:25461/live/1819/1819/28962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Isat" tvg-logo="" group-title="Mexico",MX Isat
+http://appleiptv.com:25461/live/1819/1819/28963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Lifetime HD" tvg-logo="" group-title="Mexico",MX Lifetime HD
+http://appleiptv.com:25461/live/1819/1819/28964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Mas Chic HD" tvg-logo="" group-title="Mexico",MX Mas Chic HD
+http://appleiptv.com:25461/live/1819/1819/28965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Milenio TV HD" tvg-logo="" group-title="Mexico",MX Milenio TV HD
+http://appleiptv.com:25461/live/1819/1819/28966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX MTV HD" tvg-logo="" group-title="Mexico",MX MTV HD
+http://appleiptv.com:25461/live/1819/1819/28967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX MTV Hits" tvg-logo="" group-title="Mexico",MX MTV Hits
+http://appleiptv.com:25461/live/1819/1819/28968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX MTV Live HD" tvg-logo="" group-title="Mexico",MX MTV Live HD
+http://appleiptv.com:25461/live/1819/1819/28969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Multimedios HD" tvg-logo="" group-title="Mexico",MX Multimedios HD
+http://appleiptv.com:25461/live/1819/1819/28970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Multimedios Plus HD" tvg-logo="" group-title="Mexico",MX Multimedios Plus HD
+http://appleiptv.com:25461/live/1819/1819/28971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nat Geo Kids HD" tvg-logo="" group-title="Mexico",MX Nat Geo Kids HD
+http://appleiptv.com:25461/live/1819/1819/28972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nat Geo Wild HD" tvg-logo="" group-title="Mexico",MX Nat Geo Wild HD
+http://appleiptv.com:25461/live/1819/1819/28973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX National Geographic" tvg-logo="" group-title="Mexico",MX National Geographic
+http://appleiptv.com:25461/live/1819/1819/28974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX NBC Golf HD" tvg-logo="" group-title="Mexico",MX NBC Golf HD
+http://appleiptv.com:25461/live/1819/1819/28975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nick 2 HD" tvg-logo="" group-title="Mexico",MX Nick 2 HD
+http://appleiptv.com:25461/live/1819/1819/28976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nick Jr." tvg-logo="" group-title="Mexico",MX Nick Jr.
+http://appleiptv.com:25461/live/1819/1819/28977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon HD" tvg-logo="" group-title="Mexico",MX Nickelodeon HD
+http://appleiptv.com:25461/live/1819/1819/28978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon SD" tvg-logo="" group-title="Mexico",MX Nickelodeon SD
+http://appleiptv.com:25461/live/1819/1819/28979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Nicktoons" tvg-logo="" group-title="Mexico",MX Nicktoons
+http://appleiptv.com:25461/live/1819/1819/28980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX NTN24" tvg-logo="" group-title="Mexico",MX NTN24
+http://appleiptv.com:25461/live/1819/1819/28981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Paramount Channel HD" tvg-logo="" group-title="Mexico",MX Paramount Channel HD
+http://appleiptv.com:25461/live/1819/1819/28982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX RMS" tvg-logo="" group-title="Mexico",MX RMS
+http://appleiptv.com:25461/live/1819/1819/28983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX SEC Network HD" tvg-logo="" group-title="Mexico",MX SEC Network HD
+http://appleiptv.com:25461/live/1819/1819/28984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Sony Channel HD" tvg-logo="" group-title="Mexico",MX Sony Channel HD
+http://appleiptv.com:25461/live/1819/1819/28985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Space HD" tvg-logo="" group-title="Mexico",MX Space HD
+http://appleiptv.com:25461/live/1819/1819/28986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Star TVE HD" tvg-logo="" group-title="Mexico",MX Star TVE HD
+http://appleiptv.com:25461/live/1819/1819/28987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Studio Universal HD" tvg-logo="" group-title="Mexico",MX Studio Universal HD
+http://appleiptv.com:25461/live/1819/1819/28988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Studio Universal HD B2" tvg-logo="" group-title="Mexico",MX Studio Universal HD B2
+http://appleiptv.com:25461/live/1819/1819/28989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Sundance TV HD" tvg-logo="" group-title="Mexico",MX Sundance TV HD
+http://appleiptv.com:25461/live/1819/1819/28990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX SyFy HD" tvg-logo="" group-title="Mexico",MX SyFy HD
+http://appleiptv.com:25461/live/1819/1819/28991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TBS" tvg-logo="" group-title="Mexico",MX TBS
+http://appleiptv.com:25461/live/1819/1819/28992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TCM" tvg-logo="" group-title="Mexico",MX TCM
+http://appleiptv.com:25461/live/1819/1819/28993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TDN HD" tvg-logo="" group-title="Mexico",MX TDN HD
+http://appleiptv.com:25461/live/1819/1819/28994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Telehit Plus HD" tvg-logo="" group-title="Mexico",MX Telehit Plus HD
+http://appleiptv.com:25461/live/1819/1819/28995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Telenovelas" tvg-logo="" group-title="Mexico",MX Telenovelas
+http://appleiptv.com:25461/live/1819/1819/28996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Televisa Pueblo HD" tvg-logo="" group-title="Mexico",MX Televisa Pueblo HD
+http://appleiptv.com:25461/live/1819/1819/28997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TLC HD" tvg-logo="" group-title="Mexico",MX TLC HD
+http://appleiptv.com:25461/live/1819/1819/28998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TLR" tvg-logo="" group-title="Mexico",MX TLR
+http://appleiptv.com:25461/live/1819/1819/28999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TNT HD" tvg-logo="" group-title="Mexico",MX TNT HD
+http://appleiptv.com:25461/live/1819/1819/29000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TNT Series HD" tvg-logo="" group-title="Mexico",MX TNT Series HD
+http://appleiptv.com:25461/live/1819/1819/29001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Tooncast" tvg-logo="" group-title="Mexico",MX Tooncast
+http://appleiptv.com:25461/live/1819/1819/29002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TP AZTECA UNO  SD" tvg-logo="" group-title="Mexico",MX TP AZTECA UNO  SD
+http://appleiptv.com:25461/live/1819/1819/29003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL Once" tvg-logo="" group-title="Mexico",MX TP CANAL Once
+http://appleiptv.com:25461/live/1819/1819/29004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL109" tvg-logo="" group-title="Mexico",MX TP CANAL109
+http://appleiptv.com:25461/live/1819/1819/29005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL113" tvg-logo="" group-title="Mexico",MX TP CANAL113
+http://appleiptv.com:25461/live/1819/1819/29006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TP Fox Sports 1 HD" tvg-logo="" group-title="Mexico",MX TP Fox Sports 1 HD
+http://appleiptv.com:25461/live/1819/1819/29007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Tru TV HD" tvg-logo="" group-title="Mexico",MX Tru TV HD
+http://appleiptv.com:25461/live/1819/1819/29008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TV Mas HD" tvg-logo="" group-title="Mexico",MX TV Mas HD
+http://appleiptv.com:25461/live/1819/1819/29009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TVE" tvg-logo="" group-title="Mexico",MX TVE
+http://appleiptv.com:25461/live/1819/1819/29010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TVO D HD" tvg-logo="" group-title="Mexico",MX TVO D HD
+http://appleiptv.com:25461/live/1819/1819/29011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX TVO HD" tvg-logo="" group-title="Mexico",MX TVO HD
+http://appleiptv.com:25461/live/1819/1819/29012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Unicable HD" tvg-logo="" group-title="Mexico",MX Unicable HD
+http://appleiptv.com:25461/live/1819/1819/29013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX VH1" tvg-logo="" group-title="Mexico",MX VH1
+http://appleiptv.com:25461/live/1819/1819/29014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX VH1 Classic" tvg-logo="" group-title="Mexico",MX VH1 Classic
+http://appleiptv.com:25461/live/1819/1819/29015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX VH1 HD" tvg-logo="" group-title="Mexico",MX VH1 HD
+http://appleiptv.com:25461/live/1819/1819/29016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Warner HD" tvg-logo="" group-title="Mexico",MX Warner HD
+http://appleiptv.com:25461/live/1819/1819/29017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Wobi HD" tvg-logo="" group-title="Mexico",MX Wobi HD
+http://appleiptv.com:25461/live/1819/1819/29018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Holiday Hits" tvg-logo="" group-title="Mexico",US MC Video | Holiday Hits
+http://appleiptv.com:25461/live/1819/1819/28333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Holiday Yule Logs" tvg-logo="" group-title="Mexico",US MC Video | Holiday Yule Logs
+http://appleiptv.com:25461/live/1819/1819/28334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Tailgate Party" tvg-logo="" group-title="Mexico",US MC Video | Tailgate Party
+http://appleiptv.com:25461/live/1819/1819/28335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Hit List" tvg-logo="" group-title="Mexico",US MC Video | Hit List
+http://appleiptv.com:25461/live/1819/1819/28336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Hip-Hop and R&B" tvg-logo="" group-title="Mexico",US MC Video | Hip-Hop and R&B
+http://appleiptv.com:25461/live/1819/1819/28337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Teen Beats" tvg-logo="" group-title="Mexico",US MC Video | Teen Beats
+http://appleiptv.com:25461/live/1819/1819/28338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Today's Country: CMA Awards" tvg-logo="" group-title="Mexico",US MC Video | Today's Country: CMA Awards
+http://appleiptv.com:25461/live/1819/1819/28339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Pop Hits" tvg-logo="" group-title="Mexico",US MC Video | Pop Hits
+http://appleiptv.com:25461/live/1819/1819/28340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Pop & Country" tvg-logo="" group-title="Mexico",US MC Video | Pop & Country
+http://appleiptv.com:25461/live/1819/1819/28341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | 90's" tvg-logo="" group-title="Mexico",US MC Video | 90's
+http://appleiptv.com:25461/live/1819/1819/28342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | R&B" tvg-logo="" group-title="Mexico",US MC Video | R&B
+http://appleiptv.com:25461/live/1819/1819/28343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Rock" tvg-logo="" group-title="Mexico",US MC Video | Rock
+http://appleiptv.com:25461/live/1819/1819/28344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | R&B Soul" tvg-logo="" group-title="Mexico",US MC Video | R&B Soul
+http://appleiptv.com:25461/live/1819/1819/28345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Music Choice Max" tvg-logo="" group-title="Mexico",US MC Video | Music Choice Max
+http://appleiptv.com:25461/live/1819/1819/28346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Dance/ EDM" tvg-logo="" group-title="Mexico",US MC Video | Dance/ EDM
+http://appleiptv.com:25461/live/1819/1819/28347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Y2K" tvg-logo="" group-title="Mexico",US MC Video | Y2K
+http://appleiptv.com:25461/live/1819/1819/28348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Brits + Hits" tvg-logo="" group-title="Mexico",US MC Video | Brits + Hits
+http://appleiptv.com:25461/live/1819/1819/28349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Pop Latino" tvg-logo="" group-title="Mexico",US MC Video | Pop Latino
+http://appleiptv.com:25461/live/1819/1819/28350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Rap" tvg-logo="" group-title="Mexico",US MC Video | Rap
+http://appleiptv.com:25461/live/1819/1819/28351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Rap 2K" tvg-logo="" group-title="Mexico",US MC Video | Rap 2K
+http://appleiptv.com:25461/live/1819/1819/28353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Musica Urbana" tvg-logo="" group-title="Mexico",US MC Video | Musica Urbana
+http://appleiptv.com:25461/live/1819/1819/28354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Tropicales" tvg-logo="" group-title="Mexico",US MC Video | Tropicales
+http://appleiptv.com:25461/live/1819/1819/28355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Mexicana" tvg-logo="" group-title="Mexico",US MC Video | Mexicana
+http://appleiptv.com:25461/live/1819/1819/28356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Metal" tvg-logo="" group-title="Mexico",US MC Video | Metal
+http://appleiptv.com:25461/live/1819/1819/28357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Alternative" tvg-logo="" group-title="Mexico",US MC Video | Alternative
+http://appleiptv.com:25461/live/1819/1819/28358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Indie" tvg-logo="" group-title="Mexico",US MC Video | Indie
+http://appleiptv.com:25461/live/1819/1819/28359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Toddler Tunes" tvg-logo="" group-title="Mexico",US MC Video | Toddler Tunes
+http://appleiptv.com:25461/live/1819/1819/28362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US MC Video | Music Choice Play" tvg-logo="" group-title="Mexico",US MC Video | Music Choice Play
+http://appleiptv.com:25461/live/1819/1819/28363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX✦: ADN 40 HD" tvg-logo="" group-title="Mexico",MX✦: ADN 40 HD
+http://appleiptv.com:25461/live/1819/1819/131258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA✦: ADN 40" tvg-logo="" group-title="Mexico",LA✦: ADN 40
+http://appleiptv.com:25461/live/1819/1819/131259.m3u8
