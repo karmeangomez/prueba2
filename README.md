@@ -27,6 +27,12 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=44684ff9a4cb64
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fe07d09e8d00718d4ed2ff931bfff810db78ad32&st.mq=2&st.mvid=1623925131999&st.ip=187.162.101.45&st.dla=on&st.exp=1633745497802&st.hls=on&_prevCmd=movieLayer&tkn=7269
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 7
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=252ae3d4d29b2fe1e1cf109412bfacaafa625bc2&st.mq=2&st.mvid=1623931095775&st.ip=187.162.101.45&st.dla=on&st.exp=1633745605856&st.hls=on&_prevCmd=movieLayer&tkn=1576
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 8
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3c2c786d9ee1594ed98ce42c90c8ea1a9da3df3a&st.mq=2&st.mvid=1623938108127&st.ip=187.162.101.45&st.dla=on&st.exp=1633901560438&st.hls=on&_prevCmd=movieLayer&tkn=8578
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 9
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1091af5386462d01be546cf0275fb4b95ab3ad0d&st.mq=2&st.mvid=1623941778143&st.ip=187.162.101.45&st.dla=on&st.exp=1633901668863&st.hls=on&_prevCmd=movieLayer&tkn=5842
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 10
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b4386170b69efa41b96f6859401ed5ce5760183&st.mq=2&st.mvid=1623945448159&st.ip=187.162.101.45&st.dla=on&st.exp=1633901749019&st.hls=on&_prevCmd=movieLayer&tkn=1325
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
@@ -816,7 +822,7 @@ http://appleiptv.com:25461/live/1819/1819/28359.m3u8
 http://appleiptv.com:25461/live/1819/1819/28362.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US MC Video | Music Choice Play" tvg-logo="" group-title="Mexico",US MC Video | Music Choice Play
 http://appleiptv.com:25461/live/1819/1819/28363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX✦: ADN 40 HD" tvg-logo="" group-title="Mexico",MX✦: ADN 40 HD
+#EXTINF:-1 tvg-id="" tvg-name="MX?: ADN 40 HD" tvg-logo="" group-title="Mexico",MX?: ADN 40 HD
 http://appleiptv.com:25461/live/1819/1819/131258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA✦: ADN 40" tvg-logo="" group-title="Mexico",LA✦: ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="LA?: ADN 40" tvg-logo="" group-title="Mexico",LA?: ADN 40
 http://appleiptv.com:25461/live/1819/1819/131259.m3u8
