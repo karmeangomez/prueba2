@@ -19,20 +19,12 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://bit.ly/3izvT1v
 #EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
 https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 4
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=65f9b264c42fc390382d1b7dd8a537690ffbe837&st.mq=2&st.mvid=1623842884319&st.ip=187.162.101.45&st.dla=on&st.exp=1633745304629&st.hls=on&_prevCmd=movieLayer&tkn=3337
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 5
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=44684ff9a4cb644c0a74e8c20ea3d06b73aed2a5&st.mq=2&st.mvid=1623848127199&st.ip=187.162.101.45&st.dla=on&st.exp=1633745407015&st.hls=on&_prevCmd=movieLayer&tkn=2146
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 6
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fe07d09e8d00718d4ed2ff931bfff810db78ad32&st.mq=2&st.mvid=1623925131999&st.ip=187.162.101.45&st.dla=on&st.exp=1633745497802&st.hls=on&_prevCmd=movieLayer&tkn=7269
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 7
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=718fd42799d4a318a6e5b2a2ad0de3eed37358be&st.mq=2&st.mvid=1623931095775&st.ip=187.162.101.45&st.dla=on&st.exp=1633920855069&st.hls=on&_prevCmd=movieLayer&tkn=2277
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 8
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3c2c786d9ee1594ed98ce42c90c8ea1a9da3df3a&st.mq=2&st.mvid=1623938108127&st.ip=187.162.101.45&st.dla=on&st.exp=1633901560438&st.hls=on&_prevCmd=movieLayer&tkn=8578
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 9
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1091af5386462d01be546cf0275fb4b95ab3ad0d&st.mq=2&st.mvid=1623941778143&st.ip=187.162.101.45&st.dla=on&st.exp=1633901668863&st.hls=on&_prevCmd=movieLayer&tkn=5842
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 10
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b4386170b69efa41b96f6859401ed5ce5760183&st.mq=2&st.mvid=1623945448159&st.ip=187.162.101.45&st.dla=on&st.exp=1633901749019&st.hls=on&_prevCmd=movieLayer&tkn=1325
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 11
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=92867b257a7268507217fbbb1a673f9c69815c2e&st.mq=2&st.mvid=1624079600351&st.ip=187.162.101.45&st.dla=on&st.exp=1634176583580&st.hls=on&_prevCmd=movieLayer&tkn=6333
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 12
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d3edab2e6a8580c7e6908492d3c9b635732cdfec&st.mq=2&st.mvid=1624083598047&st.ip=187.162.101.45&st.dla=on&st.exp=1634176696616&st.hls=on&_prevCmd=movieLayer&tkn=4123
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 13
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b48dc30046cb042f4c7fc00ee58002c3cb7aaa49&st.mq=2&st.mvid=1624086678239&st.ip=187.162.101.45&st.dla=on&st.exp=1634176762120&st.hls=on&_prevCmd=movieLayer&tkn=9388
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="CANALES INFANTILES", MAGIC KIDS - CARICATURAS RETRO
