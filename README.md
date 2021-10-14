@@ -1,4 +1,26 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★13-OCT-21★
+https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/72/f2/0a72f23f9e04c5c1ae115e9e907e0e35.png", 24H | MALCOLM
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CsEE8Ylq8REMobIsE6X07OTYDp9P65MglTbRJWmzYMoyeOggFJnvi2sqmv-fbue5d2I2y1lO08n_MOQWszjd9xavs5Fm9Df3cp-pvPZXADdonjmD0rmL6ym29COs79tHtheYMhX2eY1ywm0BOSIu7np2YQgnoBRXH06CU3NebmC0yKR4qHSdAAOIml72x5xhJW5FVs9_aTddw7yuyQ6G1-Qc7QoPtVXKBM73yj9k63GUr-l1IPgC7ORp_iUMGP_UuM1jl1in_phTTfwfjWfCU7jzg_b4KZ86Cn35GLLFOpDvICyQz1rTrUisW5gjbLbh7jyJPDnreUhe8h1aMCs_zGMD1kH5DoZTxIxdZzVDxvxOS43IM6hPmB0a1uQecwHgv0JL1lST5uHFdZI5Rf3M90uy9F6xQ8IPOAQVNfNBaa9OdAyW2zzOdZOC0J9h5f4BzfJkjDr_Eftp4RaNn0548HhAORwqXkTavBqk3JScz4-3H7gyjBX0U4ZIwe_9zFwl88TmWP8Lk7PmuXXYFYT0w9d-JvFRwLKwor8_VdKkO1qNDahr9P0iTlsDoEN7pEAFIg_3KUBmPKlY5wytZ8Ie4hF3wNxiGcYqjqLVTpByqbjjazXAh4YxpKDIaP8EhjnuxJkyt9SDZCYct0gxroUIJp1HKenadEge7ZnxUNoPysdBLYrRJh0KTDpuvNp32zwzPP_-31iUy8ys5NDX9LhlPlrIam1PGWGibfDMeTgeYdTlj9oaaZwvmvq_V60zwxO_qWGi0xoMbXSYmh3SYjn4rEa-IAEqCXVzLWVhc3QtMjCGAg.m3u8
+#EXTINF:-1 tvg-logo="http://unionbreak.dance/batalladegallos/logo7.png", REDBULL BATALLAS DE GALLOS
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS KIDS - ESTRENOS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
+#EXTINF:-73 tvg-logo="https://lh3.googleusercontent.com/GMy_ONkKFN-1e_OJvpMaa3-3FCrt8h87lCh12Xvd3juZzN4l6awxvLkxU0uUnPNw6w", CINEMEX KIDS - ESTRENOS 
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
+#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO USA
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_1205lll/live
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM3 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/jetix/jetix.jpg", JETIX - ESTRENO
+https://archive.org/serve/videoplayback-2_202110/videoplayback%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 11
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=92867b257a7268507217fbbb1a673f9c69815c2e&st.mq=2&st.mvid=1624079600351&st.ip=187.162.101.45&st.dla=on&st.exp=1634176583580&st.hls=on&_prevCmd=movieLayer&tkn=6333
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 12
