@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★14-OCT-21★
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.857291222.8543/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" ,★16-OCT-21★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/72/f2/0a72f23f9e04c5c1ae115e9e907e0e35.png", 24H | MALCOLM
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CokFL5-zxSo6j3wV5TwjBym2SAz0XN5GJ3v1XQoIK1xmKGpAnrN-hKGPe-glqqkfXsvXSNdAB6OJkqXqLStQPTSkwDRewnQLWp-Y4U1biGL3KYP8tJssEQxoZzu58pGJSaXUc830RQFrV3_o4rD0yZZV4vEWcJ4I3vtDOoGNGNmExGuU5jpSTZtrmQuGxk9pWfq9gvDedE3BKaQuRJDDdklmqX1RYPDLDoWUT1f2MuPs21cWOhesUz6iEoEsywcuCK1xMByIqq3zGDFfMNLsFQH3BG90Xt98dx3A7nJnDR3BU862yQtKQsDSU3ZXGbiW9RyiNjATjXwd9PRonSb6vuvo39eZI-BpJNHyGY4N5pTc6d4BlJGEQpl7FkHavejF7lWPx3gaKLsOyQf764NoKWN6UjMDMiITD2I6lQ0_44W-AKMHcjPqNawVzpd1XfRVGBw0H5ihfJ_vdEQayxM9NxhlV2Ewz4NOPWxOyGFd1r9l6GgJ-HClQ-VQd7TfoNOHJowRjAnBJ5RvkFAHdJzjz8FtORf7pv-n-1pZ5lUcac6g2zzDgKxufbIA-rgDBPAvgaqngJjK8FjBkYoi3vQYPRjq-AnCadBT2DOowNGz8DmM6mUZegyFLvkz0nvPDBCcEzER2HwIJG-O-9MAD7FP5jynydXVYD2-n2B7vb03dhWeCk9PoYUn0M-gg2rsb-gGiHqpBh67bH_uvJC2rjnirNufcSVhE0QF0JZYY08fE71EYYzakhz10OyRltQ9B_QBKJugNZD-u0Q_Ok2PdJgTG3keu3K_ErpVxtJDeAR5Iew3BEptvrLbaeJJag968A5qI3kbdf_mVYLmmK2GVvR71zZG1iefP9AQ9j_KWRoMu6ciV9KrrXpD2b0KIAEqCXVzLXdlc3QtMjCGAg.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 11
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9ffcb4064b9e77144f03369550c31217b9baad27&st.mq=2&st.mvid=1624079600351&st.ip=187.162.101.45&st.dla=on&st.exp=1634444412320&st.hls=on&_prevCmd=movieLayer&tkn=4576
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 12
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0b7c0faf6cb99395fc3a641c6fdcfe22a811a4ba&st.mq=2&st.mvid=1624083598047&st.ip=187.162.101.45&st.dla=on&st.exp=1634444461678&st.hls=on&_prevCmd=movieLayer&tkn=7935
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 13
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=09d647e234e306e84b473a76ea171bc58c971312&st.mq=2&st.mvid=1624086678239&st.ip=187.162.101.45&st.dla=on&st.exp=1634444510374&st.hls=on&_prevCmd=movieLayer&tkn=1335
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_en_el_medio
+#EXTINF:1, TELECLASICOS
+https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 14
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f336340d06301d7858de780b20edaaa74962681e&st.mq=2&st.mvid=1624089692895&st.ip=187.162.101.45&st.dla=on&st.exp=1634609477307&st.hls=on&_prevCmd=movieLayer&tkn=7607
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 15
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c14e07dd36b55f9ead4582a4b996355094ab096b&st.mq=2&st.mvid=1624094083807&st.ip=187.162.101.45&st.dla=on&st.exp=1634609590096&st.hls=on&_prevCmd=movieLayer&tkn=279
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 16
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fb587f6176aaabbd6943ce6e3782741be90cc71b&st.mq=2&st.mvid=1624158243551&st.ip=187.162.101.45&st.dla=on&st.exp=1634609648505&st.hls=on&_prevCmd=movieLayer&tkn=8035
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" , MANE BABY TV
