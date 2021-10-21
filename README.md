@@ -25,6 +25,16 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 21
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=844b5fb0f07d200f5cc5d3c7dd0f84ec5a8515f8&st.mq=2&st.mvid=1624234330847&st.ip=187.162.101.45&st.dla=on&st.exp=1634954866813&st.hls=on&_prevCmd=movieLayer&tkn=4822
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 22
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a37d792550dec42ab1c5fc7ee6e12719d8144b0f&st.mq=2&st.mvid=1624236886751&st.ip=187.162.101.45&st.dla=on&st.exp=1634954927485&st.hls=on&_prevCmd=movieLayer&tkn=1555
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 23
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=78d8943a40e845f5844929a4cee5e2c695c535ba&st.mq=2&st.mvid=1624239377119&st.ip=187.162.101.45&st.dla=on&st.exp=1634955030549&st.hls=on&_prevCmd=movieLayer&tkn=9013
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 24
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4af1de6f7744fd9efd20eca3f0c94a7a6f840dfc&st.mq=2&st.mvid=1624241539807&st.ip=187.162.101.45&st.dla=on&st.exp=1634955161800&st.hls=on&_prevCmd=movieLayer&tkn=677
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-49YTnzrHruE/T0HTAHEg3nI/AAAAAAAAAts/_A0mcIlybMk/s1600/alegrijes-y-rebujos.jpg", ALEGRIJES Y REBUJOS 25
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=792c9bbca6575b428b1f3226392aee337ae20ab6&st.mq=2&st.mvid=1624244947679&st.ip=187.162.101.45&st.dla=on&st.exp=1634955211917&st.hls=on&_prevCmd=movieLayer&tkn=5817
 #EXTINF:-1 tvg-logo="https://www.recreoviral.com/wp-content/uploads/2016/01/Nickelodeon-lanzar%C3%A1-una-pel%C3%ADcula-con-todos-los-nicktoons-de-los-90%C2%B4s-2.jpg" group-title="INFANTIL", NICK CLÁSICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=709d32ad-4d0f-11eb-a8d7-0242ac110002&sid=709d32ad-4d0f-11eb-a8d7-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo" group-title="24/7",24H | ZONA ANIME
