@@ -4,7 +4,7 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/25/items/4-f-980836-5081-4-fe-4-93-cd-daa-7107-e-726-b/4F980836-5081-4FE4-93CD-DAA7107E726B.png" , RUGRATS CRECIDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=2673d89f-4703-4384-b632-465e96a51396&clientModelNumber=na&deviceDNT=false&deviceId=2673d89f-4703-4384-b632-465e96a51396&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.4&marketingRegion=VE&serverSideAds=true&sessionID=e4d42b6c-4c9b-11eb-ae86-0242ac110002&sid=e4d42b6c-4c9b-11eb-ae86-0242ac110002&userId=
 
-#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/191-1915118_emoticoon-de-homero-simpsons-icon.png", 24H | LOS SIMPSONS
+#EXTINF:0 tvg-logo="https://www.prosportstickers.com/product_images/p/bart_simpson_slurpie_sticker__89009.png", 24H | LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="http://es.web.img1.acsta.net/pictures/14/06/11/10/42/410953.jpg", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
